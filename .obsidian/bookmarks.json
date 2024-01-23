@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1704403950031,
+      "path": "Home.md",
+      "title": "Home"
+    },
+    {
+      "type": "file",
+      "ctime": 1704404018034,
+      "path": "Extractos/DATABASE.md",
+      "title": "EXTRACTOS"
+    },
+    {
+      "type": "file",
+      "ctime": 1704404486551,
+      "path": "Zettelkasten/Zettelkasten.md",
+      "title": "Zettelkasten"
+    }
+  ]
+}
