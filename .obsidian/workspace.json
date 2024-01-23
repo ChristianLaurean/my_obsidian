@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "50855635f7c9fa8e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc28f03d0cc318a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bibliografia/GitHub.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "165e63fe8f2ab393",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extractos/GITHUB ACCESS TOKEN.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extractos/GITHUB ACCESS TOKEN.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extractos/GITHUB ACCESS TOKEN.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Extractos/GITHUB ACCESS TOKEN.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extractos/GITHUB ACCESS TOKEN.md"
+                "file": "Home.md"
               }
             }
           }
@@ -248,8 +230,8 @@
   },
   "active": "64a0be69afbf380a",
   "lastOpenFiles": [
-    "Bibliografia/GitHub.md",
     "Extractos/GITHUB ACCESS TOKEN.md",
+    "Bibliografia/GitHub.md",
     "Extractos/branches.md",
     "Extractos/Comandos Basicos.md",
     "Extractos/Descargar archivos remotos con git.md",
