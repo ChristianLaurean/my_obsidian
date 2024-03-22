@@ -58,3 +58,16 @@ CREATE TABLE "nombre_tabla" (
 - **ON DELETE RESTRICT**: Evita que elimines un registro
 - **ON DELETE SET NULL**: se agrega un valor [[258 - Datos NULL|NULL]]
 - **ON DELETE SET DEFAULT**: Se agrega un valor por defecto
+# Crear tablas desde un select
+
+```SQL
+DROP TABLE IF EXISTS tabla_destino;
+CREATE TABLE tabla_destino AS
+SELECT
+    columna1,
+    columna2,
+    columna3 * 2 AS columna_transformada
+FROM
+    tabla_origen;
+```
+

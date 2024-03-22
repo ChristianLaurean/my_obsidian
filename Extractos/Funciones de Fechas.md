@@ -19,10 +19,10 @@ SELECT CURRENT_TIME; -- Solo hora
 
 
 select date_part('minutes', columna_que tenga date o time) -- Extraemos una parte de la fecha
-select date_part('days'columns)
-select date_part('months'columns)
-select date_part('years'columns)
-select date_part('hours'columns)
+select date_part('days',columns)
+select date_part('months',columns)
+select date_part('years',columns)
+select date_part('hours',columns)
 ```
 
 ### Consultas con fechas

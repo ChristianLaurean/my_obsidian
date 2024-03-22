@@ -3,7 +3,7 @@ Author: Coderhouse
 Category: Entorno
 Type: Apunte
 Status: Terminado
-relación: "[[Instalar Docker en linux]]"
+relación: "[[Bibliografia/Docker|Docker]]"
 ---
 1. Tener todas nuestras actualizaciones instaladas 
 	```Bash

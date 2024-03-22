@@ -3,7 +3,7 @@ Author: Coderhouse
 Category: Fundamentos de Data
 Type: Apunte
 Status: Terminado
-relación: "[[fundamentos de Ingenieria de datos]]"
+relación: "[[INGENIERÍA DE DATOS]]"
 ---
 # Eficacia 
 

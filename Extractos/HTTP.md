@@ -10,4 +10,5 @@ relación: "[[Curso de APis]]"
 
 - Cookies Nos ayuda a almacenar la información del cliente
 - Sesiones: Son valores que almacena el servidor para poder conservar 
-- 
+
+![[Pasted image 20240124080614.png]]

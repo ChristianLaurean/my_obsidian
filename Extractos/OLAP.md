@@ -3,7 +3,7 @@ Author: Coderhouse
 Category: Fundamentos de Data
 Type: Apunte
 Status: Terminado
-relación: "[[fundamentos de Ingenieria de datos]]"
+relación: "[[Bibliografia/Diseño de bases de datos|Diseño de bases de datos]]"
 ---
 # Online Analytical processing
 
@@ -21,3 +21,7 @@ Los [[INSERT]] se suelen hacer Masiva mente por periodos de tiempo que sea neces
 
 >[!succes] Los datos se encuentras [[de-normalizados]]
 Es importante guardar su historia.
+
+- integridad de los datos no es afectada 
+- Se hacen backups rara vez
+![[Pasted image 20240208080922.png]]

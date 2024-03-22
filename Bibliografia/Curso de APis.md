@@ -10,8 +10,6 @@ type command
 action QuickAdd: Extracto
 ```
 
-
-
 ```dataview
 TABLE 
 Reference, 

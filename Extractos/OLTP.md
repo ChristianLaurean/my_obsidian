@@ -3,7 +3,7 @@ Author: Coderhouse
 Category: Fundamentos de Data
 Type: Apunte
 Status: Terminado
-relación: "[[fundamentos de Ingenieria de datos]]"
+relación: "[[Bibliografia/Diseño de bases de datos|Diseño de bases de datos]]"
 ---
 # Online Transaction processing 
 
@@ -24,3 +24,5 @@ Se suelen usar mucho los
 Es información que sirve mas para que los usuarios puedan ver esa información.
 
 Estas [[Base de datos]] Son muy [[Normalización|Normalizadas]] y no almacenan [[Datos]] analiticos y tampoco datos históricos.
+
+![[Pasted image 20240208080740.png]]

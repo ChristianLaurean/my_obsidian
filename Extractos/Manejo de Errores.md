@@ -23,7 +23,8 @@ finally:
 Necesitamos que se pare el procesamiento de datos cuando un archivo sea 0 para eso usamos `raise`
 
 ```python
-raise NameError('Mensaje que quieras')
+if dasda =! adsad:
+	raise NameError('Mensaje que quieras')
 # Lo podemos usar en una función y despues usar Try: Except
 # ---------------
 ```

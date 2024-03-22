@@ -3,7 +3,7 @@ Author: Coderhouse
 Category: Fundamentos de Data
 Type: Apunte
 Status: Terminado
-relación: "[[fundamentos de Ingenieria de datos]]"
+relación: "[[Fundamentos de Bases de datos]]"
 ---
 La arquitectura de datos se centra en el diseño,desarrollo,mantenimiento de programas informáticos que almacenan y organizan información .
 

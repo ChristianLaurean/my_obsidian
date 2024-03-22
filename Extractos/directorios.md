@@ -51,3 +51,18 @@ ruta_directorio.rmdir()# eliminar directorio
 # limpiar_consola
 from os import system('csl')
 ```
+
+###  eliminar y morver archivos
+
+```python
+Eliminar
+shutil.rmtree(directory_delete)
+
+mover 
+
+def move_files(file):
+
+for element in file.glob("*.*"):
+
+shutil.move(element ,ruta)
+```

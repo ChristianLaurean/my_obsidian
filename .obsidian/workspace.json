@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "165e63fe8f2ab393",
+        "id": "079dca5d997298b5",
         "type": "tabs",
         "children": [
           {
-            "id": "64a0be69afbf380a",
+            "id": "ce8fcdc117e6c864",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Bibliografia/Curso de Pandas.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Bibliografia/Curso de Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Bibliografia/Curso de Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "Bibliografia/Curso de Pandas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3391745903861728,
+                  "scale": 0.5087618855792593,
                   "close": true
                 }
               }
@@ -203,16 +203,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Bibliografia/Curso de Pandas.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,44 +229,45 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "64a0be69afbf380a",
+  "active": "ce8fcdc117e6c864",
   "lastOpenFiles": [
-    "Extractos/GITHUB ACCESS TOKEN.md",
-    "Bibliografia/GitHub.md",
-    "Extractos/branches.md",
-    "Extractos/Comandos Basicos.md",
-    "Extractos/Descargar archivos remotos con git.md",
+    "Extractos/Estadisticas de resumen con Pandas.md",
+    "Bibliografia/Curso de Pandas.md",
+    "Extractos/Graficos con Matplotlib y seaborn.md",
+    "Extractos/Importación de datos.md",
     "Home.md",
-    "Bibliografia/Terminal de Linux.md",
-    "Extractos/mover y copaear archivos en linux.md",
-    "Extractos/ANEXOS/Pasted image 20240123074406.png",
-    "Extractos/eliminar archivos y carpetas con linux.md",
-    "Extractos/Uso de la terminal de linux.md",
-    "Extractos/desistalar programas.md",
-    "Extractos/DATABASE.md",
-    "Extractos/CRONTAB.md",
-    "Extractos/ANEXOS/Pasted image 20240122122335.png",
-    "Extractos/args.md",
-    "Bibliografia/Curso de Python.md",
+    "Bibliografia/Extraccion de datos.md",
+    "Extractos/Importar archivos Excel.md",
+    "Extractos/Importación de archivos CSV.md",
+    "Extractos/Tablas dinamicas en Pandas.md",
+    "Extractos/ANEXOS/Pasted image 20240322164510.png",
+    "Extractos/Groupby con pandas.md",
+    "Extractos/Eliminar duplicados en Excel.md",
+    "Extractos/Funciones Principales en Pandas.md",
+    "Extractos/Pandas.md",
+    "Extractos/Manipulación de datos con Pandas.md",
+    "Extractos/Nuevas Columnas con DataFrames.md",
+    "Extractos/filtrando por condiciones con pandas.md",
+    "Extractos/Filtrar DataFrames.md",
+    "Extractos/Ordenar filas DataFrame.md",
+    "Extractos/Introducción a los DataFrame.md",
     "Extractos/Manipular archivos JSON.md",
-    "Extractos/Variables_entrno.md",
-    "Extractos/Manejo de Errores.md",
-    "Extractos/Request.md",
-    "Extractos/Entorno_viartual_python.md",
-    "Extractos/subquerys.md",
-    "Extractos/ANEXOS/Pasted image 20240122092822.png",
-    "Bibliografia/Curso de SQL.md",
-    "Bibliografia/Fundamentos diseño de Bases de datos Relacionales.md",
-    "Extractos/Diagrama de Entidad Relación.md",
-    "Extractos/ANEXOS/Pasted image 20240122083445.png",
-    "Extractos/ANEXOS/Pasted image 20240122083220.png",
-    "Extractos/Tuples.md",
-    "Extractos/Relaciones.md",
-    "Extractos/ANEXOS/Pasted image 20240121073841.png",
-    "Extractos/ANEXOS/Pasted image 20240119080203.png",
-    "Extractos/ANEXOS/Pasted image 20240118110814.png",
-    "Extractos/ANEXOS/Pasted image 20240118110753.png",
-    "Extractos/ANEXOS/Pasted image 20240118094346.png",
+    "Extractos/DATABASE.md",
+    "Extractos/JSON.md",
+    "Extractos/BeautifulSoup.md",
+    "Bibliografia/Web scraping.md",
+    "Extractos/HTML.md",
+    "Bibliografia/Curso de APis.md",
+    "Extractos/ANEXOS/Pasted image 20240316110322.png",
+    "Extractos/ANEXOS/Pasted image 20240316101856.png",
+    "Extractos/ANEXOS/Pasted image 20240316092558.png",
+    "Extractos/ANEXOS/Pasted image 20240316092509.png",
+    "Extractos/ANEXOS/Pasted image 20240315103114.png",
+    "Extractos/ANEXOS/Pasted image 20240315102943.png",
+    "Extractos/ANEXOS/Pasted image 20240315102700.png",
+    "Extractos/ANEXOS/Pasted image 20240315102528.png",
+    "Extractos/ANEXOS/Pasted image 20240315093918.png",
+    "[Extractos",
     "Extractos/Drop ",
     "Untitled.canvas",
     "Extractos/ANEXOS",
@@ -276,7 +278,6 @@
     "Zet",
     "Extractos",
     "Bibliografia",
-    "progra/Sin título",
     "000 - 🎯VISIÓN - OBJETIVOS/Roadmap Data enguinner.canvas"
   ]
 }

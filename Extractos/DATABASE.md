@@ -47,6 +47,9 @@ columns:
       - { label: "You Tube", value: "You Tube", color: "hsl(32, 95%, 90%)"}
       - { label: "Platzi", value: "Platzi", color: "hsl(147, 95%, 90%)"}
       - { label: "Christian laurean", value: "Christian laurean", color: "hsl(57, 95%, 90%)"}
+      - { label: "DataCAMP", value: "DataCAMP", color: "hsl(210, 95%, 90%)"}
+      - { label: "codigofacilito", value: "codigofacilito", color: "hsl(229, 95%, 90%)"}
+      - { label: "Book", value: "Book", color: "hsl(145, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -75,6 +78,15 @@ columns:
       - { label: "fundamentos de sotware", value: "fundamentos de sotware", color: "hsl(354, 95%, 90%)"}
       - { label: "Linux", value: "Linux", color: "hsl(213, 95%, 90%)"}
       - { label: "Fundamentos de Data", value: "Fundamentos de Data", color: "hsl(256, 95%, 90%)"}
+      - { label: "arquitectura", value: "arquitectura", color: "hsl(143, 95%, 90%)"}
+      - { label: "Modelado de datos", value: "Modelado de datos", color: "hsl(330, 95%, 90%)"}
+      - { label: "concepto", value: "concepto", color: "hsl(207, 95%, 90%)"}
+      - { label: "Data science", value: "Data science", color: "hsl(7, 95%, 90%)"}
+      - { label: "Procesamiento de datos", value: "Procesamiento de datos", color: "hsl(23, 95%, 90%)"}
+      - { label: "Matematicas", value: "Matematicas", color: "hsl(44, 95%, 90%)"}
+      - { label: "ETL", value: "ETL", color: "hsl(163, 95%, 90%)"}
+      - { label: "AI", value: "AI", color: "hsl(256, 95%, 90%)"}
+      - { label: "Marca Personal", value: "Marca Personal", color: "hsl(325, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

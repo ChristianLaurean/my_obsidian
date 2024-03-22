@@ -41,6 +41,7 @@ Para que se ejecute un programa con python es:
 	- `source env/bin/activate`
 	- `cd dirección_donde_esta_el_ejecutable_de env
 ![[Pasted image 20240122122335.png]]
-
+- Tenemos que darle permido chmod +x archivo.sh
+- Para probarlo: ./ archivo.sh
 en crontab
 * * * * * /home/christianlaurean/Documentos/practica/api/ne.sh

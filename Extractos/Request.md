@@ -74,3 +74,39 @@ with open('img.jpg', 'wb') AS file:
 		file.write(chunk)
 ```
 
+# **_Comprobando errores_**
+
+Como ha visto, el objeto Response tiene un atributo status_code que se puede comparar con request.codes.ok (una variable que tiene el valor entero 200 ) para ver si la descarga se realizó correctamente. Una forma más sencilla de comprobar el éxito es llamar al método rise_for_status() en el objeto Respuesta . Esto generará una excepción si hubo un error al descargar el archivo y no hará nada si la descarga se realizó correctamente. 
+
+```python
+res =request.get('https://inventwithpython.com/page_that_does_not_exist')  
+
+res.raise_for_status()
+```
+
+El método rise_for_status() es una buena manera de garantizar que un programa se detenga si se produce una descarga incorrecta. Esto es bueno: desea que su programa se detenga tan pronto como ocurra algún error inesperado. Si una descarga fallida _no es_ un factor decisivo para su programa, puede ajustar la línea rise_for_status() con declaraciones try y except para manejar este caso de error sin fallar.
+
+```python
+import requests
+def get_json():
+	url = 'https://api.escuelajs.co/api/v1/produccts'
+	res = requests.get(url)
+	res.raise_for_status()
+	print(res.text)
+
+try:
+	get_json()
+except Exception as exc:
+	print('hubo un problema: %s' % (exc))
+```
+
+Llame siempre a rise_for_status() después de llamar a request.get() . Desea asegurarse de que la descarga realmente haya funcionado antes de continuar con el programa.
+
+# encoding
+
+Sirve para cambiar la respuesta o el texto a utf8 
+
+```python
+response_text = r.text 
+decoded_content = response_text.encode(r.encoding)
+```

@@ -15,5 +15,5 @@ relación: "[[Arquitectura de una computadora]]"
 >		- Despues se decodifica el mensaje o la tarea para que lo pueda leer la CPU. 
 >	- Execute
 >		- Lo que hace es ejecutar la instrucción usando la Unidad Aritmético Lógica
->- 
 
+![[Pasted image 20240207101836.png]]

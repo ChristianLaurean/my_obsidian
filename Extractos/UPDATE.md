@@ -14,3 +14,11 @@ SET
 	role = 'admin'
 WHERE 'id' = 2;
 ```
+
+# actualizar fechas
+
+```sql
+UPDATE calidad_aire
+SET "Fecha_Hora_Medicion" = '2024-03-14 00:00:00.000'
+WHERE id_calidad_aire = 1;
+```
