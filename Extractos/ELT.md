@@ -19,3 +19,5 @@ Extract -> Load -> Transform
 >- Debemos de tener consideraciones adicionales para cumplir con los estándares de seguridad  [[PII]]
 
 ![[Pasted image 20240212101752.png]]
+
+**Hay veces que extraes los datos, se almacenan y se trasforman mediante un [[Stored Procedures]]**

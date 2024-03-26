@@ -25,3 +25,4 @@ relación: "[[Curso de Pandas]]"
 
 - `.index` **Contiene números de filas o nombres de filas**
 	- `df_avocado.index`
+- `dtypes` Nos ayuda ver el tipo de dato de cada columna

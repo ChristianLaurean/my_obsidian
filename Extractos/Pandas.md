@@ -15,7 +15,7 @@ Pandas es una librería de python que nos facilita la manipulación  de datos a 
 >[!warning] Todo esto ocurre en memoria
 >Si cargamos un DataSet muy pesado a pandas esto estara en [[Ram|memoria]] y necesitaremos mucha memoria para poder procesarlos.
 
-# Estructuras dundamentales
+# Estructuras fundamentales
 
 Series (1D)
 ![[Pasted image 20240221090422.png]]

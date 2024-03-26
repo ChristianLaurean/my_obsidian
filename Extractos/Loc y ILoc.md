@@ -43,6 +43,27 @@ df_books.loc[:, ['Author']] == 'JJ Smith'
 ----> #muestra la columna Author con True en los valores que cumplen la condicion y False para los que no la cumplen
 ```
 
+```python
+df.loc[df["colum"] > 0,:] # La declaración dentro de los corchetes crea una matriz de True o False
+```
+
+# Forma avanzada de usar loc
+
+```python
+# Selecciona las filas desde India, Hyderabad hasta Irak, Bagdad
+temperatures_srt.loc[("India","Hyderabad"):("Irak","Bagdad")]
+# Lo que hace es escoger los indices de las filas
+  
+
+# Selecciona las columnas desde date hasta avg_temp_c
+temperatures_srt.loc[:,"date":"avg_temp_c"]
+# Lo que hacemos es escoger todas las filas con el :
+# Despues escogemos las columnas desde date hasta avg
+  
+
+# Subdivide en ambas direcciones a la vez
+temperatures_srt.loc[("India","Hyderabad"):("Irak","Bagdad"),"date":"avg_temp_c"]
+```
 ## .iloc
 
 Filtra mediante **_índices_**.
@@ -62,3 +83,4 @@ df_books.iloc[:4, 0:2] ---> #muestra los datos de las filas que van de 0 a 3 y l
 ```python
 df_books.iloc[1,3] ---> #muestra el dato alojado en la fila 1 columna 3
 ```
+

@@ -16,6 +16,8 @@ pd.read_csv('Divvy_Trips_2018_Q4.csv'
 
 `sep=` Como separar el archivo csv
 
+`delimiter=` Como están separados los datos
+
 `header` Si tiene columnas y en  que posición están o si no tiene.
 
 `names` se utiliza para especificar los nombres de las columnas del DataFrame.

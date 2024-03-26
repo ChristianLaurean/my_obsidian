@@ -87,6 +87,8 @@ columns:
       - { label: "ETL", value: "ETL", color: "hsl(163, 95%, 90%)"}
       - { label: "AI", value: "AI", color: "hsl(256, 95%, 90%)"}
       - { label: "Marca Personal", value: "Marca Personal", color: "hsl(325, 95%, 90%)"}
+      - { label: "Limpieza de datos", value: "Limpieza de datos", color: "hsl(284, 95%, 90%)"}
+      - { label: "Pipelines", value: "Pipelines", color: "hsl(79, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

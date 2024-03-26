@@ -6,8 +6,9 @@ Status: Terminado
 relación: "[[Curso de Pandas]]"
 ---
 ```python
-# la bolsita son el typo de departamento y las columnas que vamos a sacar la media es ventas por semana
 
+df_walmart.groupby(by=["department"],axis=0).mean() 
+# la bolsita son el typo de departamento y las columnas que vamos a sacar la media es ventas por semana
 df_walmart.groupby("department")["weekly_sales"].mean() 
 
 ```

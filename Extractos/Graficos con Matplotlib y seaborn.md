@@ -15,6 +15,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 ```
 
+
 ## Estilos
 
 ```python
@@ -40,6 +41,9 @@ plt.show()
 # barras
 
 ```python
+df.plot(kind="bar",tutle="" )
+
+O
 plt.bar(x,y,width=0.5,color=['blue','yellow','red','green'])
 plt.xticks()
 plt.show()
@@ -52,7 +56,7 @@ plt.show()
 # histograma
 
 ```python
-plt.hist(y)
+df["colum"].hist(bins=2)
 plt.show()
 ```
 
