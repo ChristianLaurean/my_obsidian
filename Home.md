@@ -5,7 +5,6 @@ type command
 action QuickAdd: Bibliografias
 ```
 
-
 # Resumen_extractos
 
 ```dataview

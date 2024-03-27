@@ -27,6 +27,7 @@ df_walmart.groupby(["department","type"]["weekly_sales"].agg(["max","min"])
 # doble de todo
 df_walmart.groupby(["department","type"])[["weekly_sales","temperature_c"]].agg(["max","min"])
 
+df_sleep.groupby(by=["Occupation"])["Quality of Sleep"].mean().sort_values().index[0]
 ```
 
 ## usando numpy

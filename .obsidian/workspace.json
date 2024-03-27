@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8eaf1b907880d3fb",
+        "id": "d50943860b90a860",
         "type": "tabs",
         "children": [
           {
-            "id": "f0598d1c1a686d1b",
+            "id": "185219fb73e1b8fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extractos/Trasformaciones avanzadas.md",
+                "file": "Extractos/Problemas con datos comunes.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extractos/Trasformaciones avanzadas.md",
+                "file": "Extractos/Problemas con datos comunes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extractos/Trasformaciones avanzadas.md",
+                "file": "Extractos/Problemas con datos comunes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Extractos/Trasformaciones avanzadas.md",
+                "file": "Extractos/Problemas con datos comunes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extractos/Trasformaciones avanzadas.md"
+                "file": "Extractos/Problemas con datos comunes.md"
               }
             }
           }
@@ -229,15 +229,29 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f0598d1c1a686d1b",
+  "active": "185219fb73e1b8fa",
   "lastOpenFiles": [
-    "Extractos/ANEXOS/Pasted image 20240326124816.png",
-    "Extractos/Groupby con pandas.md",
+    "Extractos/ANEXOS/Pasted image 20240327111910.png",
+    "Extractos/ANEXOS/Pasted image 20240327103548.png",
+    "Bibliografia/Transformación de datos.md",
+    "Home.md",
+    "Extractos/Problemas con datos comunes.md",
+    "Extractos/Persisting data with pandas.md",
+    "Bibliografia/Data Pipelines.md",
+    "Extractos/Transforming data with pandas.md",
     "Bibliografia/Curso de Pandas.md",
+    "Extractos/Uso de la memoria Pandas.md",
+    "Extractos/Ordenar filas DataFrame.md",
+    "Extractos/Filtrar DataFrames.md",
+    "Extractos/Eliminar duplicados en Excel.md",
+    "Extractos/Loc y ILoc.md",
+    "Extractos/Estadisticas de resumen con Pandas.md",
+    "Extractos/indices con pandas.md",
+    "Extractos/Groupby con pandas.md",
+    "Extractos/Carga de datos a una base de datos.md",
     "Extractos/Trasformaciones avanzadas.md",
     "Extractos/Manejo de datos faltantes.md",
-    "Bibliografia/Data Pipelines.md",
-    "Home.md",
+    "Extractos/ANEXOS/Pasted image 20240326124816.png",
     "Extractos/Crear Un DataFrame.md",
     "Extractos/ANEXOS/Pasted image 20240326121911.png",
     "Extractos/Transformación de datos no tabulares.md",
@@ -246,27 +260,13 @@
     "Bibliografia/Extraccion de datos.md",
     "Extractos/DATABASE.md",
     "Extractos/Extración de datos no tabulares.md",
-    "Extractos/Monitoriar un Pipeline.md",
-    "Extractos/Logging.md",
     "Extractos/ANEXOS/Pasted image 20240326112634.png",
-    "Extractos/Manejo de Errores.md",
-    "Extractos/Persisting data with pandas.md",
-    "Extractos/Transforming data with pandas.md",
-    "Extractos/Loc y ILoc.md",
-    "Extractos/Extracting data from structure sources.md",
-    "Extractos/Extración de datos de Bases de datos.md",
-    "Extractos/Introducción a los DataFrame.md",
-    "Extractos/Funciones Principales en Pandas.md",
-    "Extractos/Pandas.md",
-    "Extractos/Extraccipon de archivos parquet.md",
     "Extractos/ANEXOS/Pasted image 20240326091441.png",
     "Extractos/ANEXOS/Pasted image 20240325150948.png",
     "Extractos/ANEXOS/Pasted image 20240325090605.png",
     "Extractos/ANEXOS/Pasted image 20240323154845.png",
     "Extractos/ANEXOS/Pasted image 20240323154551.png",
     "Extractos/ANEXOS/Pasted image 20240323152411.png",
-    "Extractos/ANEXOS/Pasted image 20240323152250.png",
-    "Extractos/ANEXOS/Pasted image 20240323152141.png",
     "[Extractos",
     "Extractos/Drop ",
     "Untitled.canvas",
