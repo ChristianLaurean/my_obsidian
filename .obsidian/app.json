@@ -1,9 +1,15 @@
 {
-  "defaultViewMode": "preview",
-  "readableLineLength": true,
-  "strictLineBreaks": false,
+  "showInlineTitle": false,
+  "autoPairMarkdown": false,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./ANEXOS",
-  "promptDelete": false
+  "attachmentFolderPath": "99 - Meta/attachments",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "99 - Meta/"
+  ],
+  "showFrontmatter": true,
+  "propertiesInDocument": "visible",
+  "autoPairBrackets": false,
+  "readableLineLength": true,
+  "spellcheck": true
 }

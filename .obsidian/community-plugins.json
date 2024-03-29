@@ -1,12 +1,19 @@
 [
-  "supercharged-links-obsidian",
-  "obsidian-style-settings",
-  "dbfolder",
-  "dataview",
-  "obsidian-quiet-outline",
-  "quickadd",
-  "buttons",
+  "obsidian-smart-typography",
+  "obsidian-importer",
+  "obsidian-completr",
+  "obsidian-icon-folder",
+  "url-into-selection",
+  "obsidian-excalidraw-plugin",
+  "recent-files-obsidian",
+  "obsidian-text-format",
+  "templater-obsidian",
+  "calendar",
+  "homepage",
+  "obsidian-advanced-slides",
   "table-editor-obsidian",
-  "obsidian42-brat",
-  "obsidian-smart-typography"
+  "dataview",
+  "dbfolder",
+  "quickadd",
+  "buttons"
 ]

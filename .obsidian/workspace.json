@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "590db10e7cf72fa4",
+    "id": "6925632690346bb1",
     "type": "split",
     "children": [
       {
-        "id": "babf7f1c5b8755dd",
+        "id": "93dd9a176efc86ee",
         "type": "tabs",
         "children": [
           {
-            "id": "e196365bfb3cefbd",
+            "id": "4437a9f164f10a4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config/Templates/extractos/tpl.apuntes.md",
+                "file": "06 - Daily/20240329.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,16 +25,26 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eb379094dcd70444",
+    "id": "61c51ecf28be0d17",
     "type": "split",
     "children": [
       {
-        "id": "0f38f7dad589d83a",
+        "id": "5cf905e04bd4e6f7",
         "type": "tabs",
-        "dimension": 33.87096774193548,
+        "dimension": 39.08918406072106,
         "children": [
           {
-            "id": "2fb345889d98e1f3",
+            "id": "ee9083e9a08fab03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66ac1b290e700dc4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,21 +59,10 @@
             }
           },
           {
-            "id": "9053d26538bc4367",
+            "id": "53826867654c5f5b",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "ca21703cc8579626",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -71,22 +70,12 @@
         "currentTab": 2
       },
       {
-        "id": "b38ada00096a8d8c",
+        "id": "0b24710af7e4d170",
         "type": "tabs",
-        "dimension": 66.12903225806451,
+        "dimension": 60.91081593927893,
         "children": [
           {
-            "id": "f23d23d6ba8b514c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "94349a6480c77030",
+            "id": "b5cfefcd3db79478",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,23 +86,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 300
   },
   "right": {
-    "id": "6c1cc1af36923c9b",
+    "id": "813ba610b927b342",
     "type": "split",
     "children": [
       {
-        "id": "1222d2a866ecb206",
+        "id": "b0e70b73a65b732c",
         "type": "tabs",
         "children": [
           {
-            "id": "b1f53aba67abde72",
+            "id": "0f1c704025af2f0d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config/Templates/extractos/tpl.apuntes.md",
+                "file": "06 - Daily/20240329.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,19 +114,30 @@
             }
           },
           {
-            "id": "5302e0211d60f44f",
+            "id": "4c31c16ebb72f5bf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config/Templates/extractos/tpl.apuntes.md",
+                "file": "06 - Daily/20240329.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "27bed8767ada40e3",
+            "id": "7974510c7295a7aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c84b639e53575fdb",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,72 +149,29 @@
             }
           },
           {
-            "id": "568f5f2db7219ee9",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "config/Templates/extractos/tpl.apuntes.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "path:Extractos",
-                      "color": {
-                        "a": 1,
-                        "rgb": 13365767
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.489583333333333,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5087618855792593,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "c34104a75a448c77",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "862119f4e898c8b0",
+            "id": "6bc4675bc6e6e032",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "config/Templates/extractos/tpl.apuntes.md"
+                "file": "06 - Daily/20240329.md"
               }
+            }
+          },
+          {
+            "id": "8204cce2cedad066",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -225,61 +182,64 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "zk-prefixer:Crear nueva nota única": false,
+      "obsidian-importer:Open Importer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false,
       "dbfolder:Crear una nueva tabla de base de datos": false
     }
   },
-  "active": "e196365bfb3cefbd",
+  "active": "4437a9f164f10a4e",
   "lastOpenFiles": [
-    "config/Templates/extractos/tpl.quote.md",
-    "config/Templates/tpl.Template.md",
-    "Extractos/DATABASE.md",
-    "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
-    "Proyectos.md",
-    "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "99 - Meta/Preloaded Classes",
-    "99 - Meta/00 - Templates",
-    "99 - Meta",
-    "Proyectos",
-    "Home.md",
-    "Zettelkasten/Zettelkasten.md",
-    "Bibliografia/Data Pipelines.md",
-    "config/Templates/extractos/tpl.apuntes.md",
-    "Bibliografia/Fundamentos de Bases de datos.md",
-    "Extractos/Super Clave.md",
-    "Bibliografia/Estadistica descriptiva.md",
-    "Extractos/Estadistica descriptiva.md",
-    "Bibliografia/Transformación de datos.md",
-    "Extractos/Uniformidad.md",
-    "Bibliografia/Extraccion de datos.md",
-    "Extractos/Extraccipon de archivos parquet.md",
-    "Extractos/CRUD con archivos y directorios.md",
-    "Bibliografia/Curso de Python.md",
-    "Bibliografia/Desarrollo de Chatbots con IA.md",
-    "Extractos/ChatCompletion.md",
-    "Extractos/Drop /Drop y Truncate.md",
-    "Extractos/ANEXOS/Pasted image 20240328114700.png",
-    "Extractos/ANEXOS/Pasted image 20240328114606.png",
-    "Extractos/ANEXOS/Pasted image 20240328114421.png",
-    "Extractos/ANEXOS/Pasted image 20240328114131.png",
-    "Extractos/ANEXOS/Pasted image 20240328113542.png",
-    "Extractos/ANEXOS/Pasted image 20240328104915.png",
-    "Extractos/ANEXOS/Pasted image 20240328104656.png",
-    "Extractos/ANEXOS/Pasted image 20240328104503.png",
-    "Extractos/ANEXOS/Pasted image 20240328104030.png",
-    "Extractos/ANEXOS/Pasted image 20240328101919.png",
-    "[Extractos",
-    "Extractos/Drop ",
-    "Untitled.canvas",
-    "Extractos/ANEXOS",
-    "Zettelkasten",
-    "config/Templates/extractos",
-    "config/Templates",
-    "000 - 🎯VISIÓN - OBJETIVOS/Roadmap Data enguinner.canvas"
+    "02 - Areas/DATA ENGINNER/Curso de Pandas.md",
+    "04 Permanent/Extración de datos de Bases de datos.md",
+    "01 - Projects/ETL Basico/Sin título.md",
+    "02 - Areas/DATA ENGINNER/Extraccion de datos.md",
+    "00 - Maps of Content/Home.md",
+    "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.md",
+    "01 - Projects/ETL Basico/Sin título.canvas",
+    "01 - Projects/ETL Basico",
+    "02 - Areas/DATA ENGINNER/Transformación de datos.md",
+    "04 Permanent/Problemas con datos comunes.md",
+    "04 Permanent/Problemas de texto y datos categóricos..md",
+    "06 - Daily/20240329.md",
+    "04 Permanent/¿Como eliminar columnas de un DF?.md",
+    "04 Permanent/¿Como Agregar y eliminar datos con pandas?.md",
+    "04 Permanent/¿Como Crear Un DataFrame?.md",
+    "04 Permanent/¿Como Eliminar duplicados en pandas?.md",
+    "04 Permanent/Estadisticas de resumen con Pandas.md",
+    "04 Permanent/¿Como Filtrar un DataFrames?.md",
+    "04 Permanent/Funciones Principales en Pandas.md",
+    "04 Permanent/Funciones principales para Explorar un DataFrame.md",
+    "04 Permanent/¿Como crear Graficos con Matplotlib y seaborn?.md",
+    "04 Permanent/¿Como usar Groupby con pandas?.md",
+    "04 Permanent/Importación de datos.md",
+    "04 Permanent/¿Como filtrar un DataFrame con Loc y ILoc?.md",
+    "04 Permanent/¿Como manejar datos faltantes en Pandas?.md",
+    "04 Permanent/¿Como crear y actualizar Columnas en un DataFrames?.md",
+    "04 Permanent/¿Como Ordenar filas en un DataFrame?.md",
+    "04 Permanent/Introducción a Pandas.md",
+    "99 - Meta/ff",
+    "99 - Meta/00 - Templates/Sin título",
+    "99 - Meta/temp_test",
+    "02 - Areas/MARCA PERSONAL",
+    "02 - Areas/DATA ENGINNER",
+    "Extractos",
+    "04 Permanent/ANEXOS/Pasted image 20240328114700.png",
+    "04 Permanent/ANEXOS/Pasted image 20240328114606.png",
+    "04 Permanent/ANEXOS/Pasted image 20240328114421.png",
+    "04 Permanent/ANEXOS/Pasted image 20240328114131.png",
+    "04 Permanent/ANEXOS/Pasted image 20240328113542.png",
+    "04 Permanent/ANEXOS/Pasted image 20240328104915.png",
+    "04 Permanent/ANEXOS/Pasted image 20240328104656.png",
+    "04 Permanent/ANEXOS/Pasted image 20240328104503.png",
+    "04 Permanent/ANEXOS/Pasted image 20240328104030.png",
+    "04 Permanent/ANEXOS/Pasted image 20240328101919.png",
+    "04 Permanent/ANEXOS",
+    "Extracto/ANEXOS",
+    "Zettelkasten"
   ]
 }

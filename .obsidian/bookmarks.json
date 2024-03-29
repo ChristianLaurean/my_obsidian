@@ -2,21 +2,15 @@
   "items": [
     {
       "type": "file",
-      "ctime": 1704403950031,
-      "path": "Home.md",
-      "title": "Home"
+      "ctime": 1711731857924,
+      "path": "04 Permanent/DATABASE.md",
+      "title": "DATABASE"
     },
     {
       "type": "file",
-      "ctime": 1704404018034,
-      "path": "Extractos/DATABASE.md",
-      "title": "EXTRACTOS"
-    },
-    {
-      "type": "file",
-      "ctime": 1704404486551,
-      "path": "Zettelkasten/Zettelkasten.md",
-      "title": "Zettelkasten"
+      "ctime": 1711736693046,
+      "path": "00 - Maps of Content/Home.md",
+      "title": "Cursos"
     }
   ]
 }

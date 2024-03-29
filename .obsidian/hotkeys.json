@@ -1,19 +1,20 @@
 {
-  "graph:open-local": [
+  "file-explorer:new-file": [],
+  "zk-prefixer": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "R"
+      "key": "N"
     }
   ],
-  "homework-manager:open-homework": [
+  "command-palette:open": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "H"
+      "key": "P"
     }
   ]
 }

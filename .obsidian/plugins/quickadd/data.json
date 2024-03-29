@@ -1,17 +1,17 @@
 {
   "choices": [
     {
-      "id": "1bc623d4-a1ea-4562-b454-3ee8eb1d5112",
-      "name": "Bibliografias",
+      "id": "3b2a3dd3-5b08-40e1-937e-3551ec687e38",
+      "name": "02 - Areas",
       "type": "Multi",
       "command": true,
       "choices": [
         {
-          "id": "71682a2a-3262-47af-95ac-2c692ecf64b4",
+          "id": "262c616c-b4f6-4399-9a03-cc3229c57e57",
           "name": "🎓 Nuevo Curso",
           "type": "Template",
           "command": false,
-          "templatePath": "config/Templates/tpl.Template.md",
+          "templatePath": "99 - Meta/00 - Templates/tpl.Template.md",
           "fileNameFormat": {
             "enabled": false,
             "format": ""
@@ -19,7 +19,7 @@
           "folder": {
             "enabled": true,
             "folders": [
-              "Bibliografia"
+              "02 - Areas/DATA ENGINNER"
             ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false,
@@ -37,20 +37,20 @@
           "setFileExistsBehavior": false
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
-      "id": "239963bf-d2c5-405f-a80d-25e7c5f4f31b",
+      "id": "4c321f79-ecc9-4534-843d-a5c1871c9f57",
       "name": "Extracto",
       "type": "Multi",
       "command": true,
       "choices": [
         {
-          "id": "feed6c9d-4160-40f3-bb1f-03d623658bbf",
-          "name": "🔖 Nuevo quote",
+          "id": "c95fe949-8c0b-434b-963f-ea9656aa5fad",
+          "name": "Nota_sin_procesar",
           "type": "Template",
           "command": false,
-          "templatePath": "config/Templates/extractos/tpl.quote.md",
+          "templatePath": "99 - Meta/00 - Templates/tpl.apuntes.md",
           "fileNameFormat": {
             "enabled": false,
             "format": ""
@@ -58,7 +58,7 @@
           "folder": {
             "enabled": true,
             "folders": [
-              "Extractos"
+              "03 - Resources"
             ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false,
@@ -76,11 +76,11 @@
           "setFileExistsBehavior": false
         },
         {
-          "id": "f2c290a9-75c1-4d3f-9209-4cf340b0a413",
+          "id": "65f641fc-f928-435c-86d5-0ede0c6c8f71",
           "name": "✍️ Nueva anotación",
           "type": "Template",
           "command": false,
-          "templatePath": "config/Templates/extractos/tpl.apuntes.md",
+          "templatePath": "99 - Meta/00 - Templates/tpl.apuntes.md",
           "fileNameFormat": {
             "enabled": false,
             "format": ""
@@ -88,7 +88,7 @@
           "folder": {
             "enabled": true,
             "folders": [
-              "Extractos"
+              "04 Permanent"
             ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false,
@@ -106,54 +106,80 @@
           "setFileExistsBehavior": false
         }
       ],
-      "collapsed": false
-    }
-  ],
-  "macros": [
+      "collapsed": true
+    },
     {
-      "name": "te",
-      "id": "e806b5d7-a894-43cd-b1a9-5a0dbe0a14ce",
-      "commands": [
+      "id": "1883d0db-ecf5-4bae-aab8-a877ac76f0d8",
+      "name": "Pensamientos",
+      "type": "Multi",
+      "command": true,
+      "choices": [
         {
-          "name": "Untitled Template Choice",
-          "type": "NestedChoice",
-          "id": "e3a5ec5f-8056-4317-9e87-65a6e1f58d44",
-          "choice": {
-            "id": "a18ee760-1e80-45ff-a006-306bb699ea42",
-            "name": "Untitled Template Choice",
-            "type": "Template",
-            "command": false,
-            "templatePath": "config/Templates/Template.md",
-            "fileNameFormat": {
-              "enabled": false,
-              "format": ""
-            },
-            "folder": {
-              "enabled": true,
-              "folders": [],
-              "chooseWhenCreatingNote": false,
-              "createInSameFolderAsActiveFile": false,
-              "chooseFromSubfolders": false
-            },
-            "appendLink": false,
-            "openFileInNewTab": {
-              "enabled": true,
-              "direction": "vertical",
-              "focus": true
-            },
-            "openFile": true,
-            "openFileInMode": "source",
-            "fileExistsMode": "Increment the file name",
-            "setFileExistsBehavior": false
-          }
+          "id": "a360ab97-a0f6-4fa1-8d7d-3708dc6d42c0",
+          "name": "Escribe_una_idea",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99 - Meta/00 - Templates/tpl.ideas.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "05 - Fleeting"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": true,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "source",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
         }
       ],
-      "runOnStartup": false
+      "collapsed": true
+    },
+    {
+      "id": "dbe6c3b0-eebc-4bc9-b2b5-48b2d90053d5",
+      "name": "45",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99 - Meta/ff/sdf.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": true
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
-  "inputPrompt": "multi-line",
+  "macros": [],
+  "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "config/Templates",
+  "templateFolderPath": "",
   "announceUpdates": true,
   "version": "1.8.1",
   "disableOnlineFeatures": true,

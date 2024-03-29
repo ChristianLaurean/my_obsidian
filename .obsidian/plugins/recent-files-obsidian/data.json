@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "20240329",
+      "path": "06 - Daily/20240329.md"
+    },
+    {
       "basename": "Curso de Pandas",
       "path": "02 - Areas/DATA ENGINNER/Curso de Pandas.md"
     },
     {
-      "basename": "Sin título",
-      "path": "01 - Projects/ETL Basico/Sin título.md"
-    },
-    {
       "basename": "Extración de datos de Bases de datos",
       "path": "04 Permanent/Extración de datos de Bases de datos.md"
+    },
+    {
+      "basename": "Sin título",
+      "path": "01 - Projects/ETL Basico/Sin título.md"
     },
     {
       "basename": "Extraccion de datos",
@@ -39,10 +43,6 @@
     {
       "basename": "Problemas de texto y datos categóricos.",
       "path": "04 Permanent/Problemas de texto y datos categóricos..md"
-    },
-    {
-      "basename": "20240329",
-      "path": "06 - Daily/20240329.md"
     },
     {
       "basename": "¿Como Agregar y eliminar datos con pandas?",
