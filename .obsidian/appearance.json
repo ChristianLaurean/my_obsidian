@@ -1,8 +1,11 @@
 {
   "accentColor": "#0ae98a",
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin",
+  "cssTheme": "Vanilla AMOLED",
   "baseFontSize": 19,
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
 }
