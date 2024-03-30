@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "20240330",
+      "path": "06 - Daily/20240330.md"
+    },
+    {
+      "basename": "DockerContainers",
+      "path": "04 Permanent/DockerContainers.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "02 - Areas/DATA ENGINNER/Docker.md"
+    },
+    {
+      "basename": "Home",
+      "path": "00 - Maps of Content/Home.md"
+    },
+    {
+      "basename": "DATABASE",
+      "path": "04 Permanent/DATABASE.md"
+    },
+    {
+      "basename": "DockerImages",
+      "path": "04 Permanent/DockerImages.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "04 Permanent/Docker.md"
+    },
+    {
+      "basename": "Dockerfiles",
+      "path": "04 Permanent/Dockerfiles.md"
+    },
+    {
       "basename": "20240329",
       "path": "06 - Daily/20240329.md"
+    },
+    {
+      "basename": "métodos",
+      "path": "04 Permanent/métodos.md"
+    },
+    {
+      "basename": "Programación orientada a objetos",
+      "path": "02 - Areas/DATA ENGINNER/Programación orientada a objetos.md"
+    },
+    {
+      "basename": "Atributos",
+      "path": "04 Permanent/Atributos.md"
+    },
+    {
+      "basename": "POO",
+      "path": "04 Permanent/POO.md"
+    },
+    {
+      "basename": "CLASE",
+      "path": "04 Permanent/CLASE.md"
+    },
+    {
+      "basename": "(TEMPLATE) Daily (Vanilla)",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md"
+    },
+    {
+      "basename": "(TEMPLATE) Daily",
+      "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md"
     },
     {
       "basename": "Curso de Pandas",
@@ -19,10 +79,6 @@
     {
       "basename": "Extraccion de datos",
       "path": "02 - Areas/DATA ENGINNER/Extraccion de datos.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00 - Maps of Content/Home.md"
     },
     {
       "basename": "Diseño_ETL.excalidraw",
@@ -143,62 +199,6 @@
     {
       "basename": "Curso de SQL",
       "path": "02 - Areas/DATA ENGINNER/Curso de SQL.md"
-    },
-    {
-      "basename": "primer_registro_sql",
-      "path": "04 Permanent/primer_registro_sql.md"
-    },
-    {
-      "basename": "DATABASE",
-      "path": "04 Permanent/DATABASE.md"
-    },
-    {
-      "basename": "Sin título",
-      "path": "07 - Archives/Sin título.md"
-    },
-    {
-      "basename": "notas_sin_procesar",
-      "path": "00 - Maps of Content/notas_sin_procesar.md"
-    },
-    {
-      "basename": "PENSAMIENTOS",
-      "path": "00 - Maps of Content/PENSAMIENTOS.md"
-    },
-    {
-      "basename": "tpl.ideas",
-      "path": "99 - Meta/00 - Templates/tpl.ideas.md"
-    },
-    {
-      "basename": "(TEMPLATE) Daily (Vanilla)",
-      "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md"
-    },
-    {
-      "basename": "ALTER",
-      "path": "04 Permanent/ALTER.md"
-    },
-    {
-      "basename": "3 niveles de diseño",
-      "path": "04 Permanent/3 niveles de diseño.md"
-    },
-    {
-      "basename": "(TEMPLATE) Daily",
-      "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md"
-    },
-    {
-      "basename": "202401211512 Notebook CSS Classes",
-      "path": "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md"
-    },
-    {
-      "basename": "tpl.apuntes",
-      "path": "99 - Meta/00 - Templates/tpl.apuntes.md"
-    },
-    {
-      "basename": "202403091325 General Tweaks CSS Classes",
-      "path": "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md"
-    },
-    {
-      "basename": "tpl.Template",
-      "path": "99 - Meta/00 - Templates/tpl.Template.md"
     }
   ],
   "omittedPaths": [],

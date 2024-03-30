@@ -3,7 +3,12 @@ Author: Coderhouse
 Category: Entorno
 Type: Apunte
 Status: Terminado
-relación: "[[Bibliografia/Docker|Docker]]"
+relación: "[[02 - Areas/DATA ENGINNER/Docker|Docker]]"
+cssclasses:
+  - center-images
+  - center-titles
+  - page-manila
+  - pen-black
 ---
 Es una unidad de [[Software]] que contiene todo lo necesario para correr una aplicación o un servicio.
 
@@ -27,7 +32,7 @@ Para hacer el contenedor tenemos los prametros:
 `-p`: Son los puertos es la puerta de entrada a mi app. Es como un tunel entre un puerto al que yo me comunico con docker y otro en donde docker se comunica con la app.
 `--name`: nombre del contenedor
 
-# Administrar mis contenedores de Docke
+# Administrar mis contenedores de Docker
 - `Docker ps --size`: ver el tamaño que esta usando el contenedor
 - `Docker stop ID_contenedor` : Parar un contenedor.
  

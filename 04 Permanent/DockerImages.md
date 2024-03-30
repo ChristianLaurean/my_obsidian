@@ -3,9 +3,14 @@ Author: Coderhouse
 Category: Entorno
 Type: Apunte
 Status: Terminado
-relación: "[[Bibliografia/Docker|Docker]]"
+relación: "[[02 - Areas/DATA ENGINNER/Docker|Docker]]"
+cssclasses:
+  - center-images
+  - center-titles
+  - page-manila
+  - pen-black
 ---
-Es un archivo con intrucciones para generar un contenedor de Docker.
+Es un archivo con instrucciones para generar un contenedor de Docker.
 
 - Son un punto de partida para crear otras imágenes
 - También sirven para tener un punto de restauración

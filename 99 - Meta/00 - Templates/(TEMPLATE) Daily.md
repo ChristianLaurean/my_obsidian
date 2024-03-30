@@ -1,9 +1,10 @@
 ---
 date: <%tp.date.now("YYYY-MM-DD")%>T<%tp.date.now("HH:mm")%>
 tags:
-  - Daily
+  - Daily 
 cssclasses:
   - daily
+  - sunday
   - <%*
 const dayOfWeek = tp.date.now("dd");
 if (dayOfWeek == "Mo")

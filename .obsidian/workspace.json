@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "93dd9a176efc86ee",
+        "id": "12ad08c9c891c5af",
         "type": "tabs",
         "children": [
           {
-            "id": "4437a9f164f10a4e",
+            "id": "5f5d304769c7bf3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/20240329.md",
+                "file": "06 - Daily/20240330.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "0b24710af7e4d170",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Daily/20240329.md",
+                "file": "06 - Daily/20240330.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/20240329.md",
+                "file": "06 - Daily/20240330.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/20240329.md"
+                "file": "06 - Daily/20240330.md"
               }
             }
           },
@@ -192,36 +191,36 @@
       "dbfolder:Crear una nueva tabla de base de datos": false
     }
   },
-  "active": "4437a9f164f10a4e",
+  "active": "5f5d304769c7bf3c",
   "lastOpenFiles": [
+    "04 Permanent/DockerContainers.md",
+    "02 - Areas/DATA ENGINNER/Docker.md",
+    "00 - Maps of Content/Home.md",
+    "04 Permanent/DATABASE.md",
+    "04 Permanent/DockerImages.md",
+    "04 Permanent/Docker.md",
+    "04 Permanent/Dockerfiles.md",
+    "06 - Daily/20240330.md",
+    "06 - Daily/20240329.md",
+    "04 Permanent/métodos.md",
+    "02 - Areas/DATA ENGINNER/Programación orientada a objetos.md",
+    "04 Permanent/Atributos.md",
+    "04 Permanent/POO.md",
+    "04 Permanent/CLASE.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "02 - Areas/DATA ENGINNER/Curso de Pandas.md",
     "04 Permanent/Extración de datos de Bases de datos.md",
     "01 - Projects/ETL Basico/Sin título.md",
     "02 - Areas/DATA ENGINNER/Extraccion de datos.md",
-    "00 - Maps of Content/Home.md",
     "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.md",
     "01 - Projects/ETL Basico/Sin título.canvas",
     "01 - Projects/ETL Basico",
     "02 - Areas/DATA ENGINNER/Transformación de datos.md",
     "04 Permanent/Problemas con datos comunes.md",
     "04 Permanent/Problemas de texto y datos categóricos..md",
-    "06 - Daily/20240329.md",
     "04 Permanent/¿Como eliminar columnas de un DF?.md",
     "04 Permanent/¿Como Agregar y eliminar datos con pandas?.md",
-    "04 Permanent/¿Como Crear Un DataFrame?.md",
-    "04 Permanent/¿Como Eliminar duplicados en pandas?.md",
-    "04 Permanent/Estadisticas de resumen con Pandas.md",
-    "04 Permanent/¿Como Filtrar un DataFrames?.md",
-    "04 Permanent/Funciones Principales en Pandas.md",
-    "04 Permanent/Funciones principales para Explorar un DataFrame.md",
-    "04 Permanent/¿Como crear Graficos con Matplotlib y seaborn?.md",
-    "04 Permanent/¿Como usar Groupby con pandas?.md",
-    "04 Permanent/Importación de datos.md",
-    "04 Permanent/¿Como filtrar un DataFrame con Loc y ILoc?.md",
-    "04 Permanent/¿Como manejar datos faltantes en Pandas?.md",
-    "04 Permanent/¿Como crear y actualizar Columnas en un DataFrames?.md",
-    "04 Permanent/¿Como Ordenar filas en un DataFrame?.md",
-    "04 Permanent/Introducción a Pandas.md",
     "99 - Meta/ff",
     "99 - Meta/00 - Templates/Sin título",
     "99 - Meta/temp_test",

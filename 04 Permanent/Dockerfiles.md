@@ -3,14 +3,22 @@ Author: Coderhouse
 Category: concepto
 Type: Apunte
 Status: Terminado
-relación: "[[Bibliografia/Docker|Docker]]"
+relación: "[[04 Permanent/Docker|Docker]]"
+cssclasses:
+  - center-images
+  - center-titles
+  - page-manila
+  - pen-black
+  - image-borders
 ---
 Es un archivo de texto que no posee extensión. 
 - Es como una receta para generar una [[imagen]] de [[04 Permanent/Docker|Docker]] 
 - Es en donde se encuentran todos los comandos necesarios para crear una imagen y asi poder correr nuestra aplicación adentro de un contenedor..
+
 ![[Pasted image 20240315093918.png]]
 
-## comandos
+---
+## Comandos
 
 ### FROM
 - Se usa para saber que sistema operativo o herramienta podemos usar como una imagen base.
@@ -42,5 +50,3 @@ Es un archivo de texto que no posee extensión.
 - Es como un RUN
 - Este ejecuta comandos pero cuando se inicia el contenedor y es lo primero que se ejecuta cuando ya está el contenedor. 
 - ![[Pasted image 20240315103114.png]]
-
-# Mejorando mi Dockefil

@@ -3,7 +3,7 @@ Author: Platzi
 Category: Entorno
 Type: Apunte
 Status: Terminado
-relación: "[[Bibliografia/Docker|Docker]]"
+relación: "[[02 - Areas/DATA ENGINNER/Docker|Docker]]"
 ---
 # Definición 
 Docker es una herramienta que te permite crear y gestionar [[Contenedor|contenedores]].
