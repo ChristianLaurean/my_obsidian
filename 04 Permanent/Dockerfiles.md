@@ -3,7 +3,7 @@ Author: Coderhouse
 Category: concepto
 Type: Apunte
 Status: Terminado
-relación: "[[04 Permanent/Docker|Docker]]"
+relación: "[[02 - Areas/DATA ENGINNER/Docker|Docker]]"
 cssclasses:
   - center-images
   - center-titles

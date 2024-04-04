@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "12ad08c9c891c5af",
+        "id": "c7fe598d613875a3",
         "type": "tabs",
         "children": [
           {
-            "id": "5f5d304769c7bf3c",
+            "id": "5702d349cbaa88f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/20240330.md",
+                "file": "04 Permanent/Ejecutar una canalización de datos en producción.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3a54987281f64c6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +42,7 @@
       {
         "id": "5cf905e04bd4e6f7",
         "type": "tabs",
-        "dimension": 39.08918406072106,
+        "dimension": 24.375,
         "children": [
           {
             "id": "ee9083e9a08fab03",
@@ -71,7 +82,7 @@
       {
         "id": "0b24710af7e4d170",
         "type": "tabs",
-        "dimension": 60.91081593927893,
+        "dimension": 75.625,
         "children": [
           {
             "id": "b5cfefcd3db79478",
@@ -101,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Daily/20240330.md",
+                "file": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/20240330.md",
+                "file": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/20240330.md"
+                "file": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.png"
               }
             }
           },
@@ -191,54 +202,54 @@
       "dbfolder:Crear una nueva tabla de base de datos": false
     }
   },
-  "active": "5f5d304769c7bf3c",
+  "active": "e3a54987281f64c6",
   "lastOpenFiles": [
-    "04 Permanent/DockerContainers.md",
+    "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.md",
+    "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.png",
+    "04 Permanent/DockerImages.md",
     "02 - Areas/DATA ENGINNER/Docker.md",
     "00 - Maps of Content/Home.md",
+    "04 Permanent/¿Como Crear Un DataFrame?.md",
     "04 Permanent/DATABASE.md",
-    "04 Permanent/DockerImages.md",
-    "04 Permanent/Docker.md",
-    "04 Permanent/Dockerfiles.md",
-    "06 - Daily/20240330.md",
-    "06 - Daily/20240329.md",
-    "04 Permanent/métodos.md",
-    "02 - Areas/DATA ENGINNER/Programación orientada a objetos.md",
-    "04 Permanent/Atributos.md",
-    "04 Permanent/POO.md",
-    "04 Permanent/CLASE.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "06 - Daily/20240403.md",
+    "02 - Areas/DATA ENGINNER/Data Pipelines.md",
+    "04 Permanent/¿Como manejar datos faltantes en Pandas?.md",
+    "04 Permanent/Ejecutar una canalización de datos en producción.md",
+    "04 Permanent/Testing en un pipeline.md",
+    "04 Permanent/Prueba unitaria de una canalización de datos.md",
+    "99 - Meta/attachments/Pasted image 20240403103946.png",
+    "99 - Meta/attachments/Pasted image 20240403103824.png",
+    "99 - Meta/attachments/Pasted image 20240403103359.png",
+    "99 - Meta/attachments/Pasted image 20240403103233.png",
+    "99 - Meta/attachments/Pasted image 20240403101024.png",
+    "99 - Meta/attachments/Pasted image 20240403100906.png",
+    "99 - Meta/attachments/Pasted image 20240403100747.png",
+    "99 - Meta/attachments/Pasted image 20240403100628.png",
+    "99 - Meta/attachments/Pasted image 20240403100605.png",
+    "04 Permanent/Monitoriar un Pipeline.md",
+    "04 Permanent/Logging.md",
+    "04 Permanent/Carga de datos a una base de datos.md",
+    "04 Permanent/¿Como cambiar el tipo de dato usando pandas?.md",
     "02 - Areas/DATA ENGINNER/Curso de Pandas.md",
-    "04 Permanent/Extración de datos de Bases de datos.md",
-    "01 - Projects/ETL Basico/Sin título.md",
-    "02 - Areas/DATA ENGINNER/Extraccion de datos.md",
-    "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.md",
+    "04 Permanent/¿Como unir DataFrames?.md",
+    "04 Permanent/Transformación.md",
+    "06 - Daily/20240402.md",
+    "04 Permanent/Dockerfiles.md",
+    "04 Permanent/Extración de Datos.md",
+    "02 - Areas/DATA ENGINNER/Curso de Python.md",
+    "04 Permanent/directorios.md",
+    "04 Permanent/Entorno_viartual_python.md",
+    "02 - Areas/DATA ENGINNER/Entorno_antes_proyectos.md",
+    "99 - Meta/attachments",
     "01 - Projects/ETL Basico/Sin título.canvas",
     "01 - Projects/ETL Basico",
-    "02 - Areas/DATA ENGINNER/Transformación de datos.md",
-    "04 Permanent/Problemas con datos comunes.md",
-    "04 Permanent/Problemas de texto y datos categóricos..md",
-    "04 Permanent/¿Como eliminar columnas de un DF?.md",
-    "04 Permanent/¿Como Agregar y eliminar datos con pandas?.md",
     "99 - Meta/ff",
     "99 - Meta/00 - Templates/Sin título",
     "99 - Meta/temp_test",
     "02 - Areas/MARCA PERSONAL",
     "02 - Areas/DATA ENGINNER",
     "Extractos",
-    "04 Permanent/ANEXOS/Pasted image 20240328114700.png",
-    "04 Permanent/ANEXOS/Pasted image 20240328114606.png",
-    "04 Permanent/ANEXOS/Pasted image 20240328114421.png",
-    "04 Permanent/ANEXOS/Pasted image 20240328114131.png",
-    "04 Permanent/ANEXOS/Pasted image 20240328113542.png",
-    "04 Permanent/ANEXOS/Pasted image 20240328104915.png",
-    "04 Permanent/ANEXOS/Pasted image 20240328104656.png",
-    "04 Permanent/ANEXOS/Pasted image 20240328104503.png",
-    "04 Permanent/ANEXOS/Pasted image 20240328104030.png",
-    "04 Permanent/ANEXOS/Pasted image 20240328101919.png",
     "04 Permanent/ANEXOS",
-    "Extracto/ANEXOS",
-    "Zettelkasten"
+    "Extracto/ANEXOS"
   ]
 }

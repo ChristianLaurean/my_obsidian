@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "20240330",
-      "path": "06 - Daily/20240330.md"
+      "basename": "Diseño_ETL.excalidraw",
+      "path": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.png"
     },
     {
-      "basename": "DockerContainers",
-      "path": "04 Permanent/DockerContainers.md"
+      "basename": "Diseño_ETL.excalidraw",
+      "path": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.md"
+    },
+    {
+      "basename": "DockerImages",
+      "path": "04 Permanent/DockerImages.md"
     },
     {
       "basename": "Docker",
@@ -17,188 +21,184 @@
       "path": "00 - Maps of Content/Home.md"
     },
     {
-      "basename": "DATABASE",
-      "path": "04 Permanent/DATABASE.md"
-    },
-    {
-      "basename": "DockerImages",
-      "path": "04 Permanent/DockerImages.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "04 Permanent/Docker.md"
-    },
-    {
-      "basename": "Dockerfiles",
-      "path": "04 Permanent/Dockerfiles.md"
-    },
-    {
-      "basename": "20240329",
-      "path": "06 - Daily/20240329.md"
-    },
-    {
-      "basename": "métodos",
-      "path": "04 Permanent/métodos.md"
-    },
-    {
-      "basename": "Programación orientada a objetos",
-      "path": "02 - Areas/DATA ENGINNER/Programación orientada a objetos.md"
-    },
-    {
-      "basename": "Atributos",
-      "path": "04 Permanent/Atributos.md"
-    },
-    {
-      "basename": "POO",
-      "path": "04 Permanent/POO.md"
-    },
-    {
-      "basename": "CLASE",
-      "path": "04 Permanent/CLASE.md"
-    },
-    {
-      "basename": "(TEMPLATE) Daily (Vanilla)",
-      "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md"
-    },
-    {
-      "basename": "(TEMPLATE) Daily",
-      "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md"
-    },
-    {
-      "basename": "Curso de Pandas",
-      "path": "02 - Areas/DATA ENGINNER/Curso de Pandas.md"
-    },
-    {
-      "basename": "Extración de datos de Bases de datos",
-      "path": "04 Permanent/Extración de datos de Bases de datos.md"
-    },
-    {
-      "basename": "Sin título",
-      "path": "01 - Projects/ETL Basico/Sin título.md"
-    },
-    {
-      "basename": "Extraccion de datos",
-      "path": "02 - Areas/DATA ENGINNER/Extraccion de datos.md"
-    },
-    {
-      "basename": "Diseño_ETL.excalidraw",
-      "path": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.md"
-    },
-    {
-      "basename": "Sin título",
-      "path": "01 - Projects/ETL Basico/Sin título.canvas"
-    },
-    {
-      "basename": "Transformación de datos",
-      "path": "02 - Areas/DATA ENGINNER/Transformación de datos.md"
-    },
-    {
-      "basename": "Problemas con datos comunes",
-      "path": "04 Permanent/Problemas con datos comunes.md"
-    },
-    {
-      "basename": "Problemas de texto y datos categóricos.",
-      "path": "04 Permanent/Problemas de texto y datos categóricos..md"
-    },
-    {
-      "basename": "¿Como Agregar y eliminar datos con pandas?",
-      "path": "04 Permanent/¿Como Agregar y eliminar datos con pandas?.md"
-    },
-    {
       "basename": "¿Como Crear Un DataFrame?",
       "path": "04 Permanent/¿Como Crear Un DataFrame?.md"
     },
     {
-      "basename": "¿Como Eliminar duplicados en pandas?",
-      "path": "04 Permanent/¿Como Eliminar duplicados en pandas?.md"
+      "basename": "DATABASE",
+      "path": "04 Permanent/DATABASE.md"
     },
     {
-      "basename": "Estadisticas de resumen con Pandas",
-      "path": "04 Permanent/Estadisticas de resumen con Pandas.md"
+      "basename": "20240403",
+      "path": "06 - Daily/20240403.md"
     },
     {
-      "basename": "¿Como Filtrar un DataFrames?",
-      "path": "04 Permanent/¿Como Filtrar un DataFrames?.md"
-    },
-    {
-      "basename": "Funciones principales para Explorar un DataFrame",
-      "path": "04 Permanent/Funciones principales para Explorar un DataFrame.md"
-    },
-    {
-      "basename": "¿Como crear Graficos con Matplotlib y seaborn?",
-      "path": "04 Permanent/¿Como crear Graficos con Matplotlib y seaborn?.md"
-    },
-    {
-      "basename": "¿Como usar Groupby con pandas?",
-      "path": "04 Permanent/¿Como usar Groupby con pandas?.md"
-    },
-    {
-      "basename": "Importación de datos",
-      "path": "04 Permanent/Importación de datos.md"
-    },
-    {
-      "basename": "¿Como filtrar un DataFrame con Loc y ILoc?",
-      "path": "04 Permanent/¿Como filtrar un DataFrame con Loc y ILoc?.md"
-    },
-    {
-      "basename": "¿Como manejar datos faltantes en Pandas?",
-      "path": "04 Permanent/¿Como manejar datos faltantes en Pandas?.md"
-    },
-    {
-      "basename": "¿Como crear y actualizar Columnas en un DataFrames?",
-      "path": "04 Permanent/¿Como crear y actualizar Columnas en un DataFrames?.md"
-    },
-    {
-      "basename": "¿Como Ordenar filas en un DataFrame?",
-      "path": "04 Permanent/¿Como Ordenar filas en un DataFrame?.md"
-    },
-    {
-      "basename": "Introducción a Pandas",
-      "path": "04 Permanent/Introducción a Pandas.md"
-    },
-    {
-      "basename": "¿Como usar tablas dinámicas en Pandas?",
-      "path": "04 Permanent/¿Como usar tablas dinámicas en Pandas?.md"
-    },
-    {
-      "basename": "¿Como unir DataFrames?",
-      "path": "04 Permanent/¿Como unir DataFrames?.md"
-    },
-    {
-      "basename": "Pandas y el consumo de Memoria",
-      "path": "04 Permanent/Pandas y el consumo de Memoria.md"
-    },
-    {
-      "basename": "¿Como manejar los indices en Pandas?",
-      "path": "04 Permanent/¿Como manejar los indices en Pandas?.md"
-    },
-    {
-      "basename": "Carga de datos",
-      "path": "04 Permanent/Carga de datos.md"
-    },
-    {
-      "basename": "Uniformidad",
-      "path": "04 Permanent/Uniformidad.md"
-    },
-    {
-      "basename": "Curso Data Warehousing y Modelado OLAP",
-      "path": "02 - Areas/DATA ENGINNER/Curso Data Warehousing y Modelado OLAP.md"
+      "basename": "Ejecutar una canalización de datos en producción",
+      "path": "04 Permanent/Ejecutar una canalización de datos en producción.md"
     },
     {
       "basename": "Data Pipelines",
       "path": "02 - Areas/DATA ENGINNER/Data Pipelines.md"
     },
     {
+      "basename": "¿Como manejar datos faltantes en Pandas?",
+      "path": "04 Permanent/¿Como manejar datos faltantes en Pandas?.md"
+    },
+    {
+      "basename": "Testing en un pipeline",
+      "path": "04 Permanent/Testing en un pipeline.md"
+    },
+    {
+      "basename": "Prueba unitaria de una canalización de datos",
+      "path": "04 Permanent/Prueba unitaria de una canalización de datos.md"
+    },
+    {
+      "basename": "Monitoriar un Pipeline",
+      "path": "04 Permanent/Monitoriar un Pipeline.md"
+    },
+    {
+      "basename": "Logging",
+      "path": "04 Permanent/Logging.md"
+    },
+    {
       "basename": "Carga de datos a una base de datos",
       "path": "04 Permanent/Carga de datos a una base de datos.md"
+    },
+    {
+      "basename": "¿Como cambiar el tipo de dato usando pandas?",
+      "path": "04 Permanent/¿Como cambiar el tipo de dato usando pandas?.md"
+    },
+    {
+      "basename": "Curso de Pandas",
+      "path": "02 - Areas/DATA ENGINNER/Curso de Pandas.md"
+    },
+    {
+      "basename": "¿Como unir DataFrames?",
+      "path": "04 Permanent/¿Como unir DataFrames?.md"
+    },
+    {
+      "basename": "Transformación",
+      "path": "04 Permanent/Transformación.md"
+    },
+    {
+      "basename": "20240402",
+      "path": "06 - Daily/20240402.md"
+    },
+    {
+      "basename": "Dockerfiles",
+      "path": "04 Permanent/Dockerfiles.md"
+    },
+    {
+      "basename": "Extración de Datos",
+      "path": "04 Permanent/Extración de Datos.md"
     },
     {
       "basename": "Curso de Python",
       "path": "02 - Areas/DATA ENGINNER/Curso de Python.md"
     },
     {
-      "basename": "Curso de SQL",
-      "path": "02 - Areas/DATA ENGINNER/Curso de SQL.md"
+      "basename": "directorios",
+      "path": "04 Permanent/directorios.md"
+    },
+    {
+      "basename": "Entorno_viartual_python",
+      "path": "04 Permanent/Entorno_viartual_python.md"
+    },
+    {
+      "basename": "Entorno_antes_proyectos",
+      "path": "02 - Areas/DATA ENGINNER/Entorno_antes_proyectos.md"
+    },
+    {
+      "basename": "Carga de datos",
+      "path": "04 Permanent/Carga de datos.md"
+    },
+    {
+      "basename": "Extraccion de datos",
+      "path": "02 - Areas/DATA ENGINNER/Extraccion de datos.md"
+    },
+    {
+      "basename": "Extración de datos de Bases de datos",
+      "path": "04 Permanent/Extración de datos de Bases de datos.md"
+    },
+    {
+      "basename": "DockerContainers",
+      "path": "04 Permanent/DockerContainers.md"
+    },
+    {
+      "basename": "20240401",
+      "path": "06 - Daily/20240401.md"
+    },
+    {
+      "basename": "20240331",
+      "path": "06 - Daily/20240331.md"
+    },
+    {
+      "basename": "Variables_entrno",
+      "path": "04 Permanent/Variables_entrno.md"
+    },
+    {
+      "basename": "psycopg2",
+      "path": "04 Permanent/psycopg2.md"
+    },
+    {
+      "basename": "Manipulación de archivos",
+      "path": "04 Permanent/Manipulación de archivos.md"
+    },
+    {
+      "basename": "Pasos para un proyecto con python",
+      "path": "04 Permanent/Pasos para un proyecto con python.md"
+    },
+    {
+      "basename": "Extracting data from structure sources",
+      "path": "04 Permanent/Extracting data from structure sources.md"
+    },
+    {
+      "basename": "Source",
+      "path": "04 Permanent/Source.md"
+    },
+    {
+      "basename": "Carga Total",
+      "path": "04 Permanent/Carga Total.md"
+    },
+    {
+      "basename": "Carga Incremental",
+      "path": "04 Permanent/Carga Incremental.md"
+    },
+    {
+      "basename": "INGENIERÍA DE DATOS",
+      "path": "02 - Areas/DATA ENGINNER/INGENIERÍA DE DATOS.md"
+    },
+    {
+      "basename": "Streaming",
+      "path": "04 Permanent/Streaming.md"
+    },
+    {
+      "basename": "Batch",
+      "path": "04 Permanent/Batch.md"
+    },
+    {
+      "basename": "Consideraciones de ETL",
+      "path": "04 Permanent/Consideraciones de ETL.md"
+    },
+    {
+      "basename": "Persistencia de los datos",
+      "path": "04 Permanent/Persistencia de los datos.md"
+    },
+    {
+      "basename": "Data Lineage",
+      "path": "04 Permanent/Data Lineage.md"
+    },
+    {
+      "basename": "¿Como Diseñar un Data Pipeline?",
+      "path": "04 Permanent/¿Como Diseñar un Data Pipeline?.md"
+    },
+    {
+      "basename": "Staging ETL",
+      "path": "04 Permanent/Staging ETL.md"
+    },
+    {
+      "basename": "Target",
+      "path": "04 Permanent/Target.md"
     }
   ],
   "omittedPaths": [],

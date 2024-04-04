@@ -3,7 +3,10 @@ Author: Platzi
 Category: ETL
 Type: Apunte
 Status: Terminado
-relación: "[[INGENIERÍA DE DATOS]]"
+relación: "[[Data Pipelines]]"
+cssclasses:
+  - center-images
+  - page-white
 ---
 Es mi objetivo, donde voy a cargar todo mi proceso de [[ETL]].
 

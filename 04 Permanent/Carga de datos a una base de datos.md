@@ -4,8 +4,20 @@ Category: Pipelines
 Type: Apunte
 Status: Terminado
 relación: "[[Data Pipelines]]"
+cssclasses:
+  - center-titles
+  - page-white
+  - pen-black
 ---
+# Consideración a la hora de cargar los datos.
+
+- Que formatos son aceptables en nuestro [[Target]]
+- **Permisos** Siempre debemos tener permisos de escritura en nuestro [[Target]]
+- **Auditar**: Comparar los datos de referencia por que permite  detectar errores, problemas de calidad y duplicados en el proceso.
+- **Eficiencia** Debes Buscar la manera mas eficiente de extraer y cargar los datos para evitar retrasos y errores
+- **Control de Errores** Es importante establecer un plan de acción en caso de presentarse un error¿deberíamos de repetir todo el proceso o solo corregir los fallos y continuar con el proceso?
 # Cargar datos a una [[Base de datos]] [[PostgreSQL]]
+
 
 
 ```python

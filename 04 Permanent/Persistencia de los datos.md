@@ -4,7 +4,24 @@ Category: Pipelines
 Type: Apunte
 Status: Terminado
 relación: "[[Data Pipelines]]"
+cssclasses:
+  - center-titles
+  - center-images
+  - page-white
 ---
+
+
+# **Persistencia de los datos**
+
+
+Capturar múltiples instantáneas de los datos a medida que atraviesan el pipeline es esencial para garantizar su integridad y trazabilidad. Esto implica almacenar los datos de manera adecuada en archivos u otros medios de almacenamiento, lo que facilita la recuperación en caso de fallos y permite reiniciar el proceso desde el punto exacto de la interrupción.
+
+![[Pasted image 20240326091441.png]]
+
+- Los archivos verdes muestran lugares lógicos para conservar datos dentro de la pipeline
+ - El pipeline puede volverse a ejecutar desde el ultimo punto de la falla y en lugar de empezar al inicio
+- La persistencia de los datos facilita la documentación de las operaciones realizadas
+
 La persistencia de los datos es una mejor practica que puede y debe ocurrir en múltiples etapas de una pipeline.
 
 La persistencia en un archivo

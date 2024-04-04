@@ -1,11 +1,15 @@
 ---
 Author: DataCAMP
-Category: Procesamiento de datos
+Category: Pipelines
 Type: Apunte
 Status: Terminado
-relación: "[[INGENIERÍA DE DATOS]]"
+relación: "[[Data Pipelines]]"
+cssclasses:
+  - center-images
+  - center-titles
+  - page-white
 ---
-Extract - Transform - Load
+# Extract - Transform - Load
 
 ![[Pasted image 20240306084740.png]]
 
@@ -20,18 +24,23 @@ Ventajas
 >[! success] Ventajas del ETL
 >- Almacenamos datos limpios
 >- Costos de almacenamiento mas bajos por que solo guarda copias de los datos trasformados y limpios
+>- Podemos detectar anomalías en el [[Source]]
 >- Cumple con estándares de seguridad evitamos datos [[PII]] Con esto evitamos almacenar datos delicados al [[Data Warehouse]]
 
 
 >[! warning] Desventajas del ETL
 >- No almacenamos los datos originales
 
-## Extracted
+## Extract
+
 - Es extraer los datos de los sistemas de [[Source|origen]]
 
 ### Transform
 
 - trasformamos los datos dependiendo las reglas de negocio
 - [[Data clean]]
-- 
+
+## Load
+- Carga los datos en una base de datos
+
 ![[Pasted image 20240212101718.png]]
