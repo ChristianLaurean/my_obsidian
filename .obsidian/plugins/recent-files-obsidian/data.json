@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Diseño_ETL.excalidraw",
-      "path": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.png"
+      "basename": "¿como configurar airflow?",
+      "path": "04 Permanent/¿como configurar airflow?.md"
     },
     {
-      "basename": "Diseño_ETL.excalidraw",
-      "path": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.md"
+      "basename": "20240414",
+      "path": "06 - Daily/20240414.md"
     },
     {
-      "basename": "DockerImages",
-      "path": "04 Permanent/DockerImages.md"
+      "basename": "Airflow",
+      "path": "02 - Areas/DATA ENGINNER/Airflow.md"
     },
     {
-      "basename": "Docker",
-      "path": "02 - Areas/DATA ENGINNER/Docker.md"
+      "basename": "¿como configurar mi archivo compose de airflow?",
+      "path": "04 Permanent/¿como configurar mi archivo compose de airflow?.md"
     },
     {
       "basename": "Home",
       "path": "00 - Maps of Content/Home.md"
     },
     {
-      "basename": "¿Como Crear Un DataFrame?",
-      "path": "04 Permanent/¿Como Crear Un DataFrame?.md"
+      "basename": "20240413",
+      "path": "06 - Daily/20240413.md"
+    },
+    {
+      "basename": "HAVING",
+      "path": "04 Permanent/HAVING.md"
+    },
+    {
+      "basename": "Curso de SQL",
+      "path": "02 - Areas/DATA ENGINNER/Curso de SQL.md"
+    },
+    {
+      "basename": "GROUP BY",
+      "path": "04 Permanent/GROUP BY.md"
+    },
+    {
+      "basename": "FUNCIONES Y OPERADORES",
+      "path": "04 Permanent/FUNCIONES Y OPERADORES.md"
+    },
+    {
+      "basename": "ORDER BY",
+      "path": "04 Permanent/ORDER BY.md"
+    },
+    {
+      "basename": "¿Cuales son las Funciones agregadas en SQL?",
+      "path": "04 Permanent/¿Cuales son las Funciones agregadas en SQL?.md"
+    },
+    {
+      "basename": "¿Como Usar WHERE?",
+      "path": "04 Permanent/¿Como Usar WHERE?.md"
+    },
+    {
+      "basename": "20240412",
+      "path": "06 - Daily/20240412.md"
+    },
+    {
+      "basename": "¿Cual es el orde de ejecución en SQL?",
+      "path": "04 Permanent/¿Cual es el orde de ejecución en SQL?.md"
+    },
+    {
+      "basename": "¿Cuales son las mejores practicas en SQL?",
+      "path": "04 Permanent/¿Cuales son las mejores practicas en SQL?.md"
+    },
+    {
+      "basename": "primer_registro_sql",
+      "path": "04 Permanent/primer_registro_sql.md"
+    },
+    {
+      "basename": "Duplicados_sql",
+      "path": "04 Permanent/Duplicados_sql.md"
+    },
+    {
+      "basename": "ALTER",
+      "path": "04 Permanent/ALTER.md"
+    },
+    {
+      "basename": "Redirecciones con la shell",
+      "path": "04 Permanent/Redirecciones con la shell.md"
+    },
+    {
+      "basename": "Terminal de Linux",
+      "path": "02 - Areas/DATA ENGINNER/Terminal de Linux.md"
+    },
+    {
+      "basename": "DAG",
+      "path": "04 Permanent/DAG.md"
+    },
+    {
+      "basename": "Backfill",
+      "path": "04 Permanent/Backfill.md"
+    },
+    {
+      "basename": "20240411",
+      "path": "06 - Daily/20240411.md"
+    },
+    {
+      "basename": "20240409",
+      "path": "06 - Daily/20240409.md"
+    },
+    {
+      "basename": "¿Qué es Airflow?",
+      "path": "04 Permanent/¿Qué es Airflow?.md"
+    },
+    {
+      "basename": "Wildcards",
+      "path": "04 Permanent/Wildcards.md"
+    },
+    {
+      "basename": "PENSAMIENTOS",
+      "path": "00 - Maps of Content/PENSAMIENTOS.md"
+    },
+    {
+      "basename": "semilla1-Que es airflow y por que usarlo",
+      "path": "05 - Fleeting/semilla1-Que es airflow y por que usarlo.md"
+    },
+    {
+      "basename": "Optimizar Perfil Linkedin",
+      "path": "02 - Areas/Marca Personal/Optimizar Perfil Linkedin.md"
+    },
+    {
+      "basename": "Cv",
+      "path": "02 - Areas/Marca Personal/Cv.md"
+    },
+    {
+      "basename": "20240408",
+      "path": "06 - Daily/20240408.md"
+    },
+    {
+      "basename": "20240407",
+      "path": "06 - Daily/20240407.md"
+    },
+    {
+      "basename": "Marca Personal",
+      "path": "00 - Maps of Content/Marca Personal.md"
+    },
+    {
+      "basename": "Task Actions",
+      "path": "04 Permanent/Task Actions.md"
+    },
+    {
+      "basename": "20240406",
+      "path": "06 - Daily/20240406.md"
+    },
+    {
+      "basename": "Manejo de imagenes",
+      "path": "04 Permanent/Manejo de imagenes.md"
     },
     {
       "basename": "DATABASE",
       "path": "04 Permanent/DATABASE.md"
     },
     {
-      "basename": "20240403",
-      "path": "06 - Daily/20240403.md"
+      "basename": "instalar airflow con docker",
+      "path": "04 Permanent/instalar airflow con docker.md"
     },
     {
-      "basename": "Ejecutar una canalización de datos en producción",
-      "path": "04 Permanent/Ejecutar una canalización de datos en producción.md"
+      "basename": "context",
+      "path": "04 Permanent/context.md"
     },
     {
-      "basename": "Data Pipelines",
-      "path": "02 - Areas/DATA ENGINNER/Data Pipelines.md"
+      "basename": "Trigger Rules",
+      "path": "04 Permanent/Trigger Rules.md"
     },
     {
-      "basename": "¿Como manejar datos faltantes en Pandas?",
-      "path": "04 Permanent/¿Como manejar datos faltantes en Pandas?.md"
+      "basename": "Orquestación de Dags",
+      "path": "04 Permanent/Orquestación de Dags.md"
     },
     {
-      "basename": "Testing en un pipeline",
-      "path": "04 Permanent/Testing en un pipeline.md"
+      "basename": "CRONTAB",
+      "path": "04 Permanent/CRONTAB.md"
     },
     {
-      "basename": "Prueba unitaria de una canalización de datos",
-      "path": "04 Permanent/Prueba unitaria de una canalización de datos.md"
+      "basename": "¿Qué hacer para que no se ejecute el dag desde la fecha de inicio hasta hoy?",
+      "path": "04 Permanent/¿Qué hacer para que no se ejecute el dag desde la fecha de inicio hasta hoy?.md"
     },
     {
-      "basename": "Monitoriar un Pipeline",
-      "path": "04 Permanent/Monitoriar un Pipeline.md"
+      "basename": "Custom Operator",
+      "path": "04 Permanent/Custom Operator.md"
     },
     {
-      "basename": "Logging",
-      "path": "04 Permanent/Logging.md"
+      "basename": "\n",
+      "path": "04 Permanent/\n.md"
     },
     {
-      "basename": "Carga de datos a una base de datos",
-      "path": "04 Permanent/Carga de datos a una base de datos.md"
+      "basename": "¿Como crear Dependencias de tareas?",
+      "path": "04 Permanent/¿Como crear Dependencias de tareas?.md"
     },
     {
-      "basename": "¿Como cambiar el tipo de dato usando pandas?",
-      "path": "04 Permanent/¿Como cambiar el tipo de dato usando pandas?.md"
+      "basename": "20240405",
+      "path": "06 - Daily/20240405.md"
     },
     {
-      "basename": "Curso de Pandas",
-      "path": "02 - Areas/DATA ENGINNER/Curso de Pandas.md"
+      "basename": "Python Operator",
+      "path": "04 Permanent/Python Operator.md"
     },
     {
-      "basename": "¿Como unir DataFrames?",
-      "path": "04 Permanent/¿Como unir DataFrames?.md"
-    },
-    {
-      "basename": "Transformación",
-      "path": "04 Permanent/Transformación.md"
-    },
-    {
-      "basename": "20240402",
-      "path": "06 - Daily/20240402.md"
-    },
-    {
-      "basename": "Dockerfiles",
-      "path": "04 Permanent/Dockerfiles.md"
-    },
-    {
-      "basename": "Extración de Datos",
-      "path": "04 Permanent/Extración de Datos.md"
-    },
-    {
-      "basename": "Curso de Python",
-      "path": "02 - Areas/DATA ENGINNER/Curso de Python.md"
-    },
-    {
-      "basename": "directorios",
-      "path": "04 Permanent/directorios.md"
-    },
-    {
-      "basename": "Entorno_viartual_python",
-      "path": "04 Permanent/Entorno_viartual_python.md"
-    },
-    {
-      "basename": "Entorno_antes_proyectos",
-      "path": "02 - Areas/DATA ENGINNER/Entorno_antes_proyectos.md"
-    },
-    {
-      "basename": "Carga de datos",
-      "path": "04 Permanent/Carga de datos.md"
-    },
-    {
-      "basename": "Extraccion de datos",
-      "path": "02 - Areas/DATA ENGINNER/Extraccion de datos.md"
-    },
-    {
-      "basename": "Extración de datos de Bases de datos",
-      "path": "04 Permanent/Extración de datos de Bases de datos.md"
-    },
-    {
-      "basename": "DockerContainers",
-      "path": "04 Permanent/DockerContainers.md"
-    },
-    {
-      "basename": "20240401",
-      "path": "06 - Daily/20240401.md"
-    },
-    {
-      "basename": "20240331",
-      "path": "06 - Daily/20240331.md"
-    },
-    {
-      "basename": "Variables_entrno",
-      "path": "04 Permanent/Variables_entrno.md"
-    },
-    {
-      "basename": "psycopg2",
-      "path": "04 Permanent/psycopg2.md"
-    },
-    {
-      "basename": "Manipulación de archivos",
-      "path": "04 Permanent/Manipulación de archivos.md"
-    },
-    {
-      "basename": "Pasos para un proyecto con python",
-      "path": "04 Permanent/Pasos para un proyecto con python.md"
-    },
-    {
-      "basename": "Extracting data from structure sources",
-      "path": "04 Permanent/Extracting data from structure sources.md"
-    },
-    {
-      "basename": "Source",
-      "path": "04 Permanent/Source.md"
-    },
-    {
-      "basename": "Carga Total",
-      "path": "04 Permanent/Carga Total.md"
-    },
-    {
-      "basename": "Carga Incremental",
-      "path": "04 Permanent/Carga Incremental.md"
-    },
-    {
-      "basename": "INGENIERÍA DE DATOS",
-      "path": "02 - Areas/DATA ENGINNER/INGENIERÍA DE DATOS.md"
-    },
-    {
-      "basename": "Streaming",
-      "path": "04 Permanent/Streaming.md"
-    },
-    {
-      "basename": "Batch",
-      "path": "04 Permanent/Batch.md"
-    },
-    {
-      "basename": "Consideraciones de ETL",
-      "path": "04 Permanent/Consideraciones de ETL.md"
-    },
-    {
-      "basename": "Persistencia de los datos",
-      "path": "04 Permanent/Persistencia de los datos.md"
-    },
-    {
-      "basename": "Data Lineage",
-      "path": "04 Permanent/Data Lineage.md"
-    },
-    {
-      "basename": "¿Como Diseñar un Data Pipeline?",
-      "path": "04 Permanent/¿Como Diseñar un Data Pipeline?.md"
-    },
-    {
-      "basename": "Staging ETL",
-      "path": "04 Permanent/Staging ETL.md"
-    },
-    {
-      "basename": "Target",
-      "path": "04 Permanent/Target.md"
+      "basename": "¿Qué es un Operator?",
+      "path": "04 Permanent/¿Qué es un Operator?.md"
     }
   ],
   "omittedPaths": [],

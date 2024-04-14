@@ -45,3 +45,7 @@ Para que se ejecute un programa con python es:
 - Para probarlo: ./ archivo.sh
 en crontab
 * * * * * /home/christianlaurean/Documentos/practica/api/ne.sh
+
+# Como funciona crontab?
+
+![[Pasted image 20240406104221.png]]

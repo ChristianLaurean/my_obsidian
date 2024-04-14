@@ -4,6 +4,9 @@ Category: SQL
 Type: Apunte
 Status: Terminado
 relación: "[[Curso de SQL]]"
+cssclasses:
+  - center-titles
+  - page-white
 ---
 ## FILTRANDO DATOS AGRUPADOS
 

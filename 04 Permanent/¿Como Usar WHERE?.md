@@ -4,18 +4,15 @@ Category: SQL
 Type: Apunte
 Status: Terminado
 relación: "[[Curso de SQL]]"
+cssclasses:
+  - center-titles
+  - page-white
 ---
-## Filtrar datos con [[2 - Querys|Querys]]
+# WHERE
 
-**La orden de execución es diferente cuando se filta ahora es:**
-1. `FROM`
-2. `WHERE`
-3. `SELECT`
-4. `LIMIT`
-
->[!tip] Como filtramos
 `WHERE` Nos ayuda a filtrar datos de la base de datos
 
+### Código
 >[!example] Codigo completo [[1 - SQL|SQL]]
 >```SQL
 SELECT names
@@ -23,6 +20,7 @@ FROM empleos
 >WHERE year > 25
 >LIMIT 10;
 
+---
 ### Filtrar con múltiples criterios
 
 `OR` Es esto O esto 
@@ -34,6 +32,8 @@ select *
 >from films f
 >where (duration >= 50 and duration <= 100) and (certificacion = 'PG' or certificacion = 'R');
 
+---
+
 `BETWEEN` Muéstrame Entre este numero y el otro
 
 >[!example] Codigo completo [[1 - SQL|SQL]]
@@ -42,41 +42,47 @@ SELECT names
 FROM empleos
 >WHERE year 
 >	BETWEEN 1992 AND 2000;
+>```
+>Multiples condiciones
+>```sql
+>SELECT *
+>FROM table_1
+>WHERE columns BETWEEN 1 AND 5 AND country = “MX”;
+>```
+
+---
 
 ### Filtrar Texto
 
->[!tip] Filtrando texto
-`LIKE` Lo usamos para encontrar un petron
->	`%` Concide con 0, uno o muchos caracteres de texto
-	
+- `LIKE` Lo usamos para encontrar un patrón en un str.
+- `%` Concide con 0, uno o muchos caracteres de texto
 	
 >[!example] Codigo completo [[1 - SQL|SQL]]
 >```SQL
 >SELECT names
 >FROM empleos
 >WHERE name LIKE 'Adel%'
->
->
->SELECT *
->
->FROM users
->
->WHERE name LIKE 'Jim %';-- También podemos buscar con espacios
+># Busca los nombres que empiecen con Adel
 >
 >```
->Busca los nombres que empiecen con Adel
+>```SQL
+>SELECT *
+>FROM users
+>WHERE name LIKE 'Jim %';-- También podemos buscar con espacios
+>```
 
-`_`
+
+- `_` : Solo coencide con un solo valor que sigue
 
 >[!example] Codigo completo [[1 - SQL|SQL]]
 >```SQL
 >SELECT names
 >FROM empleos
->WHERE name LIKE 'Adel_'
+>WHERE name LIKE '__e%'
 >```
 >Solo me trae los que empiecen con un solo caracter
 
-`NOT LIKE` Busca los patrones que no coincidan
+- `NOT LIKE` Busca los patrones que no coincidan
 
 >[!example] Codigo completo [[1 - SQL|SQL]]
 >```SQL
@@ -86,7 +92,7 @@ FROM empleos
 >```
 >Te trae todos excepto los que empiezan con Adel
 
-`IN`
+- `IN`
 
 >[!example] Codigo completo [[1 - SQL|SQL]]
 >```SQL
@@ -96,6 +102,7 @@ FROM empleos
 >```
 >nos trae los registros de todas esas fechas
 
+---
 ## filtrar valores [[258 - Datos NULL|NULL]]
 
 `IS NULL`

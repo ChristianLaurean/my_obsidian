@@ -18,7 +18,7 @@ relación: "[[Curso de SQL]]"
 >	);
 >	
 >```
->Funciona como un [[WHERE]] por que podemos usar un filtrado que nosotros queramos.
+>Funciona como un [[¿Como Usar WHERE?]] por que podemos usar un filtrado que nosotros queramos.
 >```SQL
 >ALTER TABLE country ADD  CHECK(
 >	columna in ('pais','otro_pais')

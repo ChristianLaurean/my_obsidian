@@ -10,7 +10,7 @@ relación: "[[Curso de SQL]]"
 
 
 >[!warning] Antes de usar DELETE!!!!
->Primero debemos de hacer una consulta con el [[WHERE]] y [[SELECT]] y ver que nos esta devolviendo y de ahi eliminar
+>Primero debemos de hacer una consulta con el [[¿Como Usar WHERE?]] y [[SELECT]] y ver que nos esta devolviendo y de ahi eliminar
 >```SQL
 >SELECT * FROM user
 >WHERE id = 2

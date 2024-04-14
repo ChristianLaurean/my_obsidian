@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c7fe598d613875a3",
+        "id": "2f775ebd8a2f3424",
         "type": "tabs",
         "children": [
           {
-            "id": "5702d349cbaa88f1",
+            "id": "674c7b86caa4daa3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Permanent/Ejecutar una canalización de datos en producción.md",
+                "file": "04 Permanent/¿como configurar airflow?.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e3a54987281f64c6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "813ba610b927b342",
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.png",
+                "file": "04 Permanent/¿como configurar airflow?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.png",
+                "file": "04 Permanent/¿como configurar airflow?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.png"
+                "file": "04 Permanent/¿como configurar airflow?.md"
               }
             }
           },
@@ -202,44 +191,45 @@
       "dbfolder:Crear una nueva tabla de base de datos": false
     }
   },
-  "active": "e3a54987281f64c6",
+  "active": "674c7b86caa4daa3",
   "lastOpenFiles": [
-    "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.md",
-    "01 - Projects/ETL Basico/Diseño_ETL.excalidraw.png",
-    "04 Permanent/DockerImages.md",
-    "02 - Areas/DATA ENGINNER/Docker.md",
+    "06 - Daily/20240414.md",
+    "04 Permanent/¿como configurar airflow?.md",
+    "99 - Meta/attachments/Pasted image 20240413124246.png",
+    "02 - Areas/DATA ENGINNER/Airflow.md",
+    "04 Permanent/¿como configurar mi archivo compose de airflow?.md",
+    "99 - Meta/attachments/Pasted image 20240413120915.png",
+    "99 - Meta/attachments/Pasted image 20240413120552.png",
+    "99 - Meta/attachments/Pasted image 20240413120320.png",
     "00 - Maps of Content/Home.md",
-    "04 Permanent/¿Como Crear Un DataFrame?.md",
-    "04 Permanent/DATABASE.md",
-    "06 - Daily/20240403.md",
-    "02 - Areas/DATA ENGINNER/Data Pipelines.md",
-    "04 Permanent/¿Como manejar datos faltantes en Pandas?.md",
-    "04 Permanent/Ejecutar una canalización de datos en producción.md",
-    "04 Permanent/Testing en un pipeline.md",
-    "04 Permanent/Prueba unitaria de una canalización de datos.md",
-    "99 - Meta/attachments/Pasted image 20240403103946.png",
-    "99 - Meta/attachments/Pasted image 20240403103824.png",
-    "99 - Meta/attachments/Pasted image 20240403103359.png",
-    "99 - Meta/attachments/Pasted image 20240403103233.png",
-    "99 - Meta/attachments/Pasted image 20240403101024.png",
-    "99 - Meta/attachments/Pasted image 20240403100906.png",
-    "99 - Meta/attachments/Pasted image 20240403100747.png",
-    "99 - Meta/attachments/Pasted image 20240403100628.png",
-    "99 - Meta/attachments/Pasted image 20240403100605.png",
-    "04 Permanent/Monitoriar un Pipeline.md",
-    "04 Permanent/Logging.md",
-    "04 Permanent/Carga de datos a una base de datos.md",
-    "04 Permanent/¿Como cambiar el tipo de dato usando pandas?.md",
-    "02 - Areas/DATA ENGINNER/Curso de Pandas.md",
-    "04 Permanent/¿Como unir DataFrames?.md",
-    "04 Permanent/Transformación.md",
-    "06 - Daily/20240402.md",
-    "04 Permanent/Dockerfiles.md",
-    "04 Permanent/Extración de Datos.md",
-    "02 - Areas/DATA ENGINNER/Curso de Python.md",
-    "04 Permanent/directorios.md",
-    "04 Permanent/Entorno_viartual_python.md",
-    "02 - Areas/DATA ENGINNER/Entorno_antes_proyectos.md",
+    "06 - Daily/20240413.md",
+    "99 - Meta/attachments/Pasted image 20240413115232.png",
+    "99 - Meta/attachments/Pasted image 20240413115102.png",
+    "99 - Meta/attachments/Pasted image 20240413115024.png",
+    "99 - Meta/attachments/Pasted image 20240413114930.png",
+    "99 - Meta/attachments/Pasted image 20240413114912.png",
+    "99 - Meta/attachments/Pasted image 20240413114846.png",
+    "04 Permanent/HAVING.md",
+    "02 - Areas/DATA ENGINNER/Curso de SQL.md",
+    "04 Permanent/GROUP BY.md",
+    "04 Permanent/FUNCIONES Y OPERADORES.md",
+    "04 Permanent/ORDER BY.md",
+    "04 Permanent/¿Cuales son las Funciones agregadas en SQL?.md",
+    "04 Permanent/¿Como Usar WHERE?.md",
+    "06 - Daily/20240412.md",
+    "04 Permanent/¿Cual es el orde de ejecución en SQL?.md",
+    "04 Permanent/¿Cuales son las mejores practicas en SQL?.md",
+    "04 Permanent/primer_registro_sql.md",
+    "04 Permanent/Duplicados_sql.md",
+    "04 Permanent/ALTER.md",
+    "04 Permanent/Redirecciones con la shell.md",
+    "02 - Areas/DATA ENGINNER/Terminal de Linux.md",
+    "04 Permanent/DAG.md",
+    "04 Permanent/Backfill.md",
+    "06 - Daily/20240411.md",
+    "06 - Daily/20240409.md",
+    "04 Permanent/¿Qué es Airflow?.md",
+    "02 - Areas/Marca Personal",
     "99 - Meta/attachments",
     "01 - Projects/ETL Basico/Sin título.canvas",
     "01 - Projects/ETL Basico",
@@ -249,7 +239,6 @@
     "02 - Areas/MARCA PERSONAL",
     "02 - Areas/DATA ENGINNER",
     "Extractos",
-    "04 Permanent/ANEXOS",
-    "Extracto/ANEXOS"
+    "04 Permanent/ANEXOS"
   ]
 }

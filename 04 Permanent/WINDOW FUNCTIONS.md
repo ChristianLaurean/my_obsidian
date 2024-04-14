@@ -5,7 +5,7 @@ Type: Apunte
 Status: Terminado
 relación: "[[Curso de SQL]]"
 ---
-Realizan cálculos en un conjunto de resultados que ya se an generado y son utilizado para hacer [[Funciones agregadas]] sin utilizar [[GROUP BY]]
+Realizan cálculos en un conjunto de resultados que ya se an generado y son utilizado para hacer [[¿Cuales son las Funciones agregadas en SQL?]] sin utilizar [[GROUP BY]]
 
 ```sql
 SELECT

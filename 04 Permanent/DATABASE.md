@@ -90,6 +90,7 @@ columns:
       - { label: "Limpieza de datos", value: "Limpieza de datos", color: "hsl(284, 95%, 90%)"}
       - { label: "Pipelines", value: "Pipelines", color: "hsl(79, 95%, 90%)"}
       - { label: "Transformación_datos", value: "Transformación_datos", color: "hsl(185, 95%, 90%)"}
+      - { label: "Orquestación", value: "Orquestación", color: "hsl(1, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

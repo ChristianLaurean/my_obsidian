@@ -20,7 +20,7 @@ FROM table_a
 
 ![[Pasted image 20240125110819.png]]
 
-# CASE EN [[WHERE]]
+# CASE EN [[¿Como Usar WHERE?]]
 
 Asi podemos filtrar con Case 
 En este caso solo usamos los null

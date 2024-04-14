@@ -33,7 +33,7 @@ WHERE comlum > (
 ## Subconsultas con el where
 
 - Son utiles para filtrar resultados segun la información.
-- Es util por que no se pueden usar [[Funciones agregadas]] en el [[WHERE]]
+- Es util por que no se pueden usar [[¿Cuales son las Funciones agregadas en SQL?]] en el [[¿Como Usar WHERE?]]
 #### lista de filtrado
 
 ```sql
@@ -54,7 +54,7 @@ WHERE comlum IN (
 ### subquerys con [[SELECT]]
 
 - Sirven para traer valores resumen aun conjunto de datos detallado.
->[!warning] Recuerda que no se puede poner na [[Funciones agregadas]] con un [[GROUP BY]] 
+>[!warning] Recuerda que no se puede poner na [[¿Cuales son las Funciones agregadas en SQL?]] con un [[GROUP BY]] 
 
 ```sql
 SELECT 

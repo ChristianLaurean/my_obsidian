@@ -4,7 +4,7 @@ name Nuevo registro
 type command
 action QuickAdd: Pensamientos
 ```
-# Pensamiento o ideas
+# Zeltelcasten
 
 ```dataview
 TABLE without id 

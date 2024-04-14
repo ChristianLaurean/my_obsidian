@@ -6,7 +6,8 @@ Status: Terminado
 relación: "[[Curso de SQL]]"
 cssclasses:
   - center-images
-  - page-manila
+  - center-titles
+  - page-white
 ---
 
 

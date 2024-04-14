@@ -4,6 +4,10 @@ Category: SQL
 Type: Apunte
 Status: Terminado
 relación: "[[Curso de SQL]]"
+cssclasses:
+  - center-images
+  - center-titles
+  - page-white
 ---
 ## Ordenar los datos
 
